@@ -1,0 +1,17 @@
+v20.1
+- Improved search speed for amber shop item changes
+- Added changes to the selling price and number of items received when purchased. Negative values of the selling price may work and may increase post-purchase amber
+
+v20
+- Add Tek Gun no Hot
+- Add Change item amber x15 or other to any item by ID, max ID lenght 133
+
+v19
+- Add control creatures and player on map, improved time for search and change them by pickup choose
+- Fix tame with Unconscious
+- Force tame no food add support bonus level after tamed
+- Support request creature :
++ Teleport creature to player (Not work if creature is too far that they become disable on map)
++ Teleport Player to Creature (well work)
+
+
