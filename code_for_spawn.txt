@@ -1,0 +1,405 @@
+0 giant stone hatchframe
+1 giant stone trap door
+2 giant metal trap door
+3 giant metal hatch frame
+4 Adobe stairs
+5 stone stairs
+6 Wood stairs
+7 metal stairs
+8 industrial grinder
+9 tree sap tap
+10 rope ladder
+11  metal tree platform
+12 wood tree platform
+13 training dummy
+14 dragon flag
+15 gorilla flag
+16 chemistry bench
+17 cannon
+18 greenhouse window
+19 sloped greenhouse roof
+20 sloped greenhouse wall right
+21 sloped greenhouse wall left
+22 greenhouse door
+23 greenhouse doorframe
+24 greenhouse ceiling
+25 greenhouse wall
+26 beer barrel
+27 stone foundation
+28 wood wall
+29 wooden cage
+30 fireplace
+31 industrial cooker
+32 bunk bed
+33 wooden table
+34 industrial forge
+35 wall torch
+36 water mine
+37 trophy mount
+38 stone wall
+39 
+40 metal railing
+41 stone railing
+42 wood railing
+43 artifact pedistal
+44 gravestone
+45 wooden bench
+46 wooden chair
+47 
+48 ballista turret
+49 elevator track
+50 small elevator platform
+51 medium elevator platform
+52 large elevator platform
+53 metal ladder
+54 stone foundation
+55 sloped metal roof
+56 sloped metal wall left
+57 sloped metal wall right
+58 sloped thatch roof
+59 sloped thatch wall left
+60 sloped that wall right
+61 sloped stone roof
+62 sloped stone wall left
+63 sloped stone wall right
+64 sloped wood roof
+65 sloped wooden wall left
+66 sloped wooden wall right
+67 plant X
+68 stone behemoth gate
+69 stone behemoth gateway
+70 stone foundation
+71 stone wall
+72 stone ceiling
+73 stone doorframe
+74 stone door
+75 stone pillar
+
+76 stone window frame
+77 stone trapdoor ceiling
+78 stone dino gateway
+79 stone gate
+80 stone trapdoor
+81 stone window
+82 spider flag
+83 wooden billboard
+84 metal billboard
+85 compost bin
+86 wooden fence foundation
+87 metal fence foundation
+88 metal dino gateway
+89 metal dino gate
+90 fabricator
+91 wooden wall sign
+92 multi panel flag
+93 wood billboard
+94 metal foundation
+95 metal wall
+96 metal ceiling
+97 metal door
+98 metal doorframe
+99 vertical stone water pipe 
+100 stone watertap
+
+101 small crop plot
+102 auto turret
+103 refrigerator 
+104 air conditioner
+105 keypad2
+106 normal generator
+107 straight cable
+108 electric junction box
+109 lamppost
+110 thatch floor
+111 thatch wall
+112 thatch ceiling
+113 thatch doorframe
+114 thatch door
+115 wooden floor
+116 wooden wall
+117 Wood roof
+118 wood doorframe
+119 wood door
+120 wood trapdoor ceiling
+121 wood trapdoor
+122 wood window wall
+123 wooden ramp
+124 wooden pillar
+125 wooden catwalk
+126 wooden ladder
+127 campfire
+128 cook pot
+129 Large storage box
+130 simple bed
+131 smithy
+132 refining forge
+133 standing torch
+134 wooden fence foundation
+135 wooden dino gate frame
+136 wooden trapdoor ceiling
+137 wooden trapdoor
+138 wooden pillar
+139 wooden catwalk
+140 wooden ramp
+141 standing torch
+142 campfire
+143 small crop plot
+144 wooden ladder
+145 bed
+146 refining forge
+147 stone intake pipe
+148 straight stone waterpipe
+149 stone waterpipe intersection
+150 vertical stone waterpipe
+
+151 water tap
+152 wooden window
+153 mortar and pestle
+154 cooking pot
+155 keypad
+156 compost bin
+157 wooden spikes
+158 small storage box
+159 large storage box
+160 small wooden sign
+161 c4
+162 c4 tripwire
+163 wooden ceiling
+164 wooden door
+165 wooden doorframe
+166 wooden floor
+167 wooden wall
+168 sleeping bag
+169 wooden window frame 
+170 smithy
+171 wooden gate
+172 vertical stone pipe
+173 metal pillar
+174 metal trapdoor (small)
+175 metal hatchframe (small)
+176 stone vertical pipe
+177 stone intersection pipe
+178 stone straight pipe
+179 metal Fence found
+180 water tank
+181 large metal gate
+182 large metal gate frame
+183 metal ladder
+184 metal pillar
+185 metal ramp
+186 stone intake pipe
+187 metal window
+188 metal window frame
+189 intersection cable
+190 diagonal cable
+191 vertical cable
+192 fabricator
+193 metal intake pipe
+194 intersection water pipe
+195 metal straight pipe
+196 vertical metal pipe
+197 metal pipe vertical 
+198 water tap
+199 small metal sign
+200 large metal sign
+
+201 metal gate frame 
+202 metal gate
+203 medium crop plot
+204 large crop plot
+205 metal wall sign
+206 wooden spikes
+207 vault 
+208 bookshelf
+209 stone fence foundation
+210 narcotic tripwire
+211 alarm tripwire
+212 preserving bin
+213 metal water reservoir 
+214 gps charge 
+215 
+216 feeding trough
+217 omnidirectional lamp post
+218 industrial grill 
+219 bear trap 
+220 large bear trap
+221 wardrums 
+222 catapult
+223 minigun turret
+224 rocket turret
+225 alarm
+226 water valve
+ 228 mailboxes
+ 229 iron mailbox
+ 230 large mailboxes
+ 231 strange green liquid
+ 232 stylish beds
+ 233 large elegant rugs
+ 234 wild bear rugs
+ 235 yeti rugs
+ 236 snake rugs
+ 237 dodo rugs
+ 238 large woven rugs
+ 239 Round shape
+ 240 carpets of seborrhea
+ 241 blue round shape
+ 243 armor dummy
+ 245 elegant small tables
+ 246 elegant chairs
+ 247 stylish tables
+ 248 digital clocks
+ 249 elegant lamps
+ 251 glass vase
+ 252 ceramic vases
+ 254 storage chests
+ 255 bat statues
+ 256 fence boxes
+ 257 trees
+ 258 ball trees
+ 259 dwarfs
+ 260 rock tiles
+ 261 gravel pavement
+ 262 marble pavement
+ 263 rock pavement
+ 264 half paths
+ 265 ....
+ 266 ....
+ 267....
+ 268 stone flower pots
+ 269 ceramic flower pots
+ 270 f flower pot
+ 271 ceramic pot pots
+ 272 garden trees
+ 273 lattice belts
+ 274 lattice railings
+ 275 carno statues
+ 276 giga statues
+ 277 penguin statues
+ 278 pte statue
+ 279 statues of spino
+ 280 statues of kraken
+ 281 water fountains
+ 282 something like 281 piss
+ 283 stone crop plot
+ 284 ... The round one
+ 285 stone stairs
+ 286 hours again
+ 287 
+ 288 crash games. no use
+ 289 game ass fucks
+ 290 also fucks
+ 291 direwolves
+ 292 errie turrets
+ 293 concrete foundations
+ 294 cliff platforms
+ 295 warning bells
+ 296 alarm tower
+ 297 Giant wall - stone battlement
+ 298 half giant wall
+ 299 horse statues
+ 300  curved metal battlement
+301 metal battlement
+302 racing flag
+303 tek window
+304 tek hatchframe
+305 metal window
+306 tek floor
+307 tek door
+308 tek doorframe
+309 tek ceiling
+310 tek roof
+311 tek rail 
+312 tek fence foundation
+313 tek rail
+314 tek sloped wall left
+315 tek sloped wall right
+316 tek stair case
+317 tek ladder
+318 tek ramp
+319 tek pillar
+320 Tek hatch
+
+321 crash game. fuck
+
+322 tek wall
+323 tek rep
+324 tek implant chamber
+325 tek feeding trough
+326 tek gen
+327 tek sleeping pod
+328 tek kibble
+329 tek teleport
+330 tek light
+331 cement pillar
+332 anky statue
+333 Rex statue
+334 stego statue
+335 tape statue 
+336 normal loot crate
+337 thatch crate
+338 wood pack
+339 Stone crate
+340 Metal pack
+341 revival crate
+342 random crate
+343 revival platform
+344 lumber mill 
+345 outpot bait and tackle
+346 chef station
+347 factory
+348 loading bench
+349 metal foundry
+350 stone workbench
+351 tanery
+352 dye studio
+353 toilet paper
+
+https://www.bilibili.com/video/BV1E7411z7Nn/?spm_id_from=autoNext
+
+
+
+
+The values subtracted by different types of foundations are different. The 
+coordinates of the foundations (different types) of the same building array are the same. 
+Concrete polymer foundation 293
+-148.056640625 
+Stone foundation 27
+-146.904296875 
+Iron foundation 94
+-141.8671875 
+Wooden foundation 115
+-142.791015625 
+Thatch foundation 110
+- 142.440429688 
+Tektronix Foundation 306
+-141.801757813
+
+
+
+-14,328.5177734375
+
+-14,328.4977734375
+
+/Game/PrimalEarth/CoreBlueprints/Items/Structures/Stone/PrimalItemStructure_GeopolymerFloor.PrimalItemStructure_GeopolymerFloor_C
+2F 47 61 6D 65 2F 50 72 69 6D 61 6C 45 61 72 74 68 2F 43 6F 72 65 42 6C 75 65 70 72 69 6E 74 73 2F 49 74 65 6D 73 2F 53 74 72 75 63 74 75 72 65 73 2F 53 74 6F 6E 65 2F 50 72 69 6D 61 6C 49 74 65 6D 53 74 72 75 63 74 75 72 65 5F 47 65 6F 70 6F 6C 79 6D 65 72 46 6C 6F 6F 72 2E 50 72 69 6D 61 6C 49 74 65 6D 53 74 72 75 63 74 75 72 65 5F 47 65 6F 70 6F 6C 79 6D 65 72 46 6C 6F 6F 72 5F 43 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+
+/Game/PrimalEarth/CoreBlueprints/Items/Structures/Pipes/PrimalItemStructure_PowerCableIntersection.PrimalItemStructure_PowerCableIntersection_C
+2F 47 61 6D 65 2F 50 72 69 6D 61 6C 45 61 72 74 68 2F 43 6F 72 65 42 6C 75 65 70 72 69 6E 74 73 2F 49 74 65 6D 73 2F 53 74 72 75 63 74 75 72 65 73 2F 50 69 70 65 73 2F 50 72 69 6D 61 6C 49 74 65 6D 53 74 72 75 63 74 75 72 65 5F 50 6F 77 65 72 43 61 62 6C 65 49 6E 74 65 72 73 65 63 74 69 6F 6E 2E 50 72 69 6D 61 6C 49 74 65 6D 53 74 72 75 63 74 75 72 65 5F 50 6F 77 65 72 43 61 62 6C 65 49 6E 74 65 72 73 65 63 74 69 6F 6E 5F 43
+
+
+/Game/PrimalEarth/Structures/Electric/ElectricCableIntersection.ElectricCableIntersection_C
+2F 47 61 6D 65 2F 50 72 69 6D 61 6C 45 61 72 74 68 2F 53 74 72 75 63 74 75 72 65 73 2F 45 6C 65 63 74 72 69 63 2F 45 6C 65 63 74 72 69 63 43 61 62 6C 65 49 6E 74 65 72 73 65 63 74 69 6F 6E 2E 45 6C 65 63 74 72 69 63 43 61 62 6C 65 49 6E 74 65 72 73 65 63 74 69 6F 6E 5F 43
+
+/Game/PrimalEarth/Structures/Stone/Stone_Floor/Floor_GeoPolymer.Floor_GeoPolymer_C
+2F 47 61 6D 65 2F 50 72 69 6D 61 6C 45 61 72 74 68 2F 53 74 72 75 63 74 75 72 65 73 2F 53 74 6F 6E 65 2F 53 74 6F 6E 65 5F 46 6C 6F 6F 72 2F 46 6C 6F 6F 72 5F 47 65 6F 50 6F 6C 79 6D 65 72 2E 46 6C 6F 6F 72 5F 47 65 6F 50 6F 6C 79 6D 65 72 5F 43 00 00 00 00 00 00 00 00 00
+
+
+/Game/PrimalEarth/Structures/Pipes/WaterPipe_Metal_Intersection.WaterPipe_Metal_Intersection_C
+
+/Game/PrimalEarth/Structures/Greenhouse_Modular/Greenhouse_Ceiling.Greenhouse_Ceiling_C
+2F 47 61 6D 65 2F 50 72 69 6D 61 6C 45 61 72 74 68 2F 53 74 72 75 63 74 75 72 65 73 2F 47 72 65 65 6E 68 6F 75 73 65 5F 4D 6F 64 75 6C 61 72 2F 47 72 65 65 6E 68 6F 75 73 65 5F 43 65 69 6C 69 6E 67 2E 47 72 65 65 6E 68 6F 75 73 65 5F 43 65 69 6C 69 6E 67 5F 43 00 00 00 00
+
+/Game/PrimalEarth/Structures/TekTier/Floor_Tek.Floor_Tek_C
+2F 47 61 6D 65 2F 50 72 69 6D 61 6C 45 61 72 74 68 2F 53 74 72 75 63 74 75 72 65 73 2F 54 65 6B 54 69 65 72 2F 46 6C 6F 6F 72 5F 54 65 6B 2E 46 6C 6F 6F 72 5F 54 65 6B 5F 43 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+
+
