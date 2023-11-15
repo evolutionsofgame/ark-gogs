@@ -1,0 +1,1990 @@
+	ITEM  ID SPAWN
+
+    GeneriCDye -  	  
+	/Game/PrimalEarth/CoreBlueprints/Items/PrimalItemDyeGeneric.PrimalItemDyeGeneric_C
+    Magenta2 Dye -    
+	/Game/PrimalEarth/CoreBlueprints/Items/PrimalItemDye_ActuallyMagenta.PrimalItemDye_ActuallyMagenta_C
+    Black Dye -    
+	/Game/PrimalEarth/CoreBlueprints/Items/PrimalItemDye_Black.PrimalItemDye_Black_C
+    Blue Dye -    
+	/Game/PrimalEarth/CoreBlueprints/Items/PrimalItemDye_Blue.PrimalItemDye_Blue_C
+    Brick Dye -    
+	/Game/PrimalEarth/CoreBlueprints/Items/PrimalItemDye_Brick.PrimalItemDye_Brick_C
+    Brown Dye -    
+	/Game/PrimalEarth/CoreBlueprints/Items/PrimalItemDye_Brown.PrimalItemDye_Brown_C
+    Cantaloupe Dye -    
+	/Game/PrimalEarth/CoreBlueprints/Items/PrimalItemDye_Cantaloupe.PrimalItemDye_Cantaloupe_C
+    Cyan Dye -    
+	/Game/PrimalEarth/CoreBlueprints/Items/PrimalItemDye_Cyan.PrimalItemDye_Cyan_C
+    Forest Dye -    
+	/Game/PrimalEarth/CoreBlueprints/Items/PrimalItemDye_Forest.PrimalItemDye_Forest_C
+    Green Dye -    
+	/Game/PrimalEarth/CoreBlueprints/Items/PrimalItemDye_Green.PrimalItemDye_Green_C
+    Magenta Dye -    
+	/Game/PrimalEarth/CoreBlueprints/Items/PrimalItemDye_Magenta.PrimalItemDye_Magenta_C
+    Mud Dye -    
+	/Game/PrimalEarth/CoreBlueprints/Items/PrimalItemDye_Mud.PrimalItemDye_Mud_C
+    Navy Dye -    
+	/Game/PrimalEarth/CoreBlueprints/Items/PrimalItemDye_Navy.PrimalItemDye_Navy_C
+    Olive Dye -    
+	/Game/PrimalEarth/CoreBlueprints/Items/PrimalItemDye_Olive.PrimalItemDye_Olive_C
+    Orange Dye -    
+	/Game/PrimalEarth/CoreBlueprints/Items/PrimalItemDye_Orange.PrimalItemDye_Orange_C
+    Parchment Dye -    
+	/Game/PrimalEarth/CoreBlueprints/Items/PrimalItemDye_Parchment.PrimalItemDye_Parchment_C
+    Pink Dye -    
+	/Game/PrimalEarth/CoreBlueprints/Items/PrimalItemDye_Pink.PrimalItemDye_Pink_C
+    Purple Dye -    
+	/Game/PrimalEarth/CoreBlueprints/Items/PrimalItemDye_Purple.PrimalItemDye_Purple_C
+    Red Dye -    
+	/Game/PrimalEarth/CoreBlueprints/Items/PrimalItemDye_Red.PrimalItemDye_Red_C
+    Royal Dye -    
+	/Game/PrimalEarth/CoreBlueprints/Items/PrimalItemDye_Royalty.PrimalItemDye_Royalty_C
+    Silver Dye -    
+	/Game/PrimalEarth/CoreBlueprints/Items/PrimalItemDye_Silver.PrimalItemDye_Silver_C
+    Sky Dye -    
+	/Game/PrimalEarth/CoreBlueprints/Items/PrimalItemDye_Sky.PrimalItemDye_Sky_C
+    Slate Dye -    
+	/Game/PrimalEarth/CoreBlueprints/Items/PrimalItemDye_Slate.PrimalItemDye_Slate_C
+    Tan Dye -    
+	/Game/PrimalEarth/CoreBlueprints/Items/PrimalItemDye_Tan.PrimalItemDye_Tan_C
+    Tangerine Dye -    
+	/Game/PrimalEarth/CoreBlueprints/Items/PrimalItemDye_Tangerine.PrimalItemDye_Tangerine_C
+    White Dye -    
+	/Game/PrimalEarth/CoreBlueprints/Items/PrimalItemDye_White.PrimalItemDye_White_C
+    Yellow Dye -    
+	/Game/PrimalEarth/CoreBlueprints/Items/PrimalItemDye_Yellow.PrimalItemDye_Yellow_C
+    Dodo Sail -    
+	/Game/PrimalEarth/CoreBlueprints/Items/PrimalItem_DodoSail.PrimalItem_DodoSail_C
+    Dungeon Key -    
+	/Game/PrimalEarth/CoreBlueprints/Items/PrimalItem_DungeonAccessKey.PrimalItem_DungeonAccessKey_C
+    Evil Bear -    
+	/Game/PrimalEarth/CoreBlueprints/Items/PrimalItem_ImprintBoost_CuddleBear_Black.PrimalItem_ImprintBoost_CuddleBear_Black_C
+    Yoyo -    
+	/Game/PrimalEarth/CoreBlueprints/Items/PrimalItem_MatureBoost_Toy_Yoyo.PrimalItem_MatureBoost_Toy_Yoyo_C
+    Paddle Ball -    
+	/Game/PrimalEarth/CoreBlueprints/Items/PrimalItem_MatureBoost_Toy_PaddleBall.PrimalItem_MatureBoost_Toy_PaddleBall_C
+    Jump Rope -    
+	/Game/PrimalEarth/CoreBlueprints/Items/PrimalItem_MatureBoost_Toy_JumpRope.PrimalItem_MatureBoost_Toy_JumpRope_C
+    Frog Feet -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/ARKetypes/PrimalItemArmor_FrogFeet.PrimalItemArmor_FrogFeet_C
+    Metal Bit -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Bits/PrimalItem_MetalBit.PrimalItem_MetalBit_C
+    Plucker Bit -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Bits/PrimalItem_PluckerBit.PrimalItem_PluckerBit_C
+    Hat Tribute Dino -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItem_HatTributeDino.PrimalItem_HatTributeDino_C
+    Hat Tribute Player -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Cloth/PrimalItem_HatTributePlayer.PrimalItem_HatTributePlayer_C
+    Bandanna -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Collars/PrimalItemArmor_Bandana.PrimalItemArmor_Bandana_C
+    Base Collar -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Collars/PrimalItemArmor_BaseCollar.PrimalItemArmor_BaseCollar_C
+    Chain Collar -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Collars/PrimalItemArmor_ChainCollar.PrimalItemArmor_ChainCollar_C
+    Comfy Collar -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Collars/PrimalItemArmor_ComfyCollar.PrimalItemArmor_ComfyCollar_C
+    Cone of Shame -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Collars/PrimalItemArmor_ConeofShame.PrimalItemArmor_ConeofShame_C
+    Fancy Collar -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Collars/PrimalItemArmor_FancyCollar.PrimalItemArmor_FancyCollar_C
+    Gold Chain -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Collars/PrimalItemArmor_GoldenChain.PrimalItemArmor_GoldenChain_C
+    Simple Collar -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Collars/PrimalItemArmor_SimpleCollar.PrimalItemArmor_SimpleCollar_C
+    Spiked Collar -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Collars/PrimalItemArmor_SpikedCollar.PrimalItemArmor_SpikedCollar_C
+    Birthday Pants -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Leather/PrimalItemSkin_BirthdayPants.PrimalItemSkin_BirthdayPants_C
+    Birthday Shirt -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Leather/PrimalItemSkin_BirthdayShirt.PrimalItemSkin_BirthdayShirt_C
+    Bone Helmet -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Leather/PrimalItemSkin_BoneHelmet.PrimalItemSkin_BoneHelmet_C
+    Candy Club -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Leather/PrimalItemSkin_CandyClub.PrimalItemSkin_CandyClub_C
+    Witch Hat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Leather/PrimalItemSkin_DinoWitchHat.PrimalItemSkin_DinoWitchHat_C
+    Fish Club -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Leather/PrimalItemSkin_FishClub.PrimalItemSkin_FishClub_C
+    Firework Flaregun -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Leather/PrimalItemSkin_FlaregunFireworks.PrimalItemSkin_FlaregunFireworks_C
+    Nerdy Glasses -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Leather/PrimalItemSkin_Glasses.PrimalItemSkin_Glasses_C
+    Firework Launcher -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Leather/PrimalItemSkin_RocketLauncherFireworks.PrimalItemSkin_RocketLauncherFireworks_C
+
+    Fur Gloves -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Fur/PrimalItemArmor_FurGloves.PrimalItemArmor_FurGloves_C
+    Fur Helmet -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Fur/PrimalItemArmor_FurHelmet.PrimalItemArmor_FurHelmet_C
+    Fur Pants -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Fur/PrimalItemArmor_FurPants.PrimalItemArmor_FurPants_C
+    Fur Boots -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Fur/PrimalItemArmor_FurBoots.PrimalItemArmor_FurBoots_C
+    Fur Shirt -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Fur/PrimalItemArmor_FurShirt.PrimalItemArmor_FurShirt_C
+    Ghillie Gloves -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Ghillie/PrimalItemArmor_GhillieGloves.PrimalItemArmor_GhillieGloves_C
+    Ghillie Boots -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Ghillie/PrimalItemArmor_GhillieBoots.PrimalItemArmor_GhillieBoots_C
+    Ghillie Pants -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Ghillie/PrimalItemArmor_GhilliePants.PrimalItemArmor_GhilliePants_C
+    Ghillie Helmet -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Ghillie/PrimalItemArmor_GhillieHelmet.PrimalItemArmor_GhillieHelmet_C
+    Ghillie Shirt -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Ghillie/PrimalItemArmor_GhillieShirt.PrimalItemArmor_GhillieShirt_C
+    Hide Boots -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Leather/PrimalItemArmor_HideBoots.PrimalItemArmor_HideBoots_C
+    Hide Gloves -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Leather/PrimalItemArmor_HideGloves.PrimalItemArmor_HideGloves_C
+    Hide Helmet -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Leather/PrimalItemArmor_HideHelmet.PrimalItemArmor_HideHelmet_C
+    Hide Pants -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Leather/PrimalItemArmor_HidePants.PrimalItemArmor_HidePants_C
+    Hide Shirt -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Leather/PrimalItemArmor_HideShirt.PrimalItemArmor_HideShirt_C
+    Skin Torch Sparkler -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Leather/PrimalItemSkin_TorchSparkler.PrimalItemSkin_TorchSparkler_C
+    Skin DevHat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Leather/PrimalItem_Skin_Account_DevKitMaster.PrimalItem_Skin_Account_DevKitMaster_C
+    Skin GameTester -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Leather/PrimalItem_Skin_Account_GameTester.PrimalItem_Skin_Account_GameTester_C
+    Skin Wildcard -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Leather/PrimalItem_Skin_Account_WildcardAdmin.PrimalItem_Skin_Account_WildcardAdmin_C
+    Flak Boots -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalBoots.PrimalItemArmor_MetalBoots_C
+    Flak Gloves -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalGloves.PrimalItemArmor_MetalGloves_C
+    Flak Helmet -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalHelmet.PrimalItemArmor_MetalHelmet_C
+    Flak Pants -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalPants.PrimalItemArmor_MetalPants_C
+    Flak Shirt -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalShirt.PrimalItemArmor_MetalShirt_C 
+    Miner Helmet -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MinersHelmet.PrimalItemArmor_MinersHelmet_C
+    Riot Boots -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Riot/PrimalItemArmor_RiotBoots.PrimalItemArmor_RiotBoots_C
+    Riot Gloves -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Riot/PrimalItemArmor_RiotGloves.PrimalItemArmor_RiotGloves_C
+    Riot Helmet -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Riot/PrimalItemArmor_RiotHelmet.PrimalItemArmor_RiotHelmet_C
+    Riot Pants -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Riot/PrimalItemArmor_RiotPants.PrimalItemArmor_RiotPants_C
+    Riot Shirt -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Riot/PrimalItemArmor_RiotShirt.PrimalItemArmor_RiotShirt_C
+    Allo Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_AlloSaddle.PrimalItemArmor_AlloSaddle_C
+    Anky Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_AnkyloSaddle.PrimalItemArmor_AnkyloSaddle_C
+    Argy Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_ArgentavisSaddle.PrimalItemArmor_ArgentavisSaddle_C
+    Arthro Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_ArthroSaddle.PrimalItemArmor_ArthroSaddle_C
+    Baryonyx Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_BaryonyxSaddle.PrimalItemArmor_BaryonyxSaddle_C
+    Basilo Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_BasiloSaddle.PrimalItemArmor_BasiloSaddle_C
+    Casteroides Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_BeaverSaddle.PrimalItemArmor_BeaverSaddle_C
+    Carno Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_CarnoSaddle.PrimalItemArmor_CarnoSaddle_C
+    Chalico Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_ChalicoSaddle.PrimalItemArmor_ChalicoSaddle_C
+    Daeodon Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DaeodonSaddle.PrimalItemArmor_DaeodonSaddle_C
+    Diplodocus Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DiplodocusSaddle.PrimalItemArmor_DiplodocusSaddle_C
+    DireBear Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DireBearSaddle.PrimalItemArmor_DireBearSaddle_C
+    DoediCSaddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DoedSaddle.PrimalItemArmor_DoedSaddle_C
+    Dolphin Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DolphinSaddle.PrimalItemArmor_DolphinSaddle_C
+    Dunkleo Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DunkleosteusSaddle.PrimalItemArmor_DunkleosteusSaddle_C
+    Equus Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_EquusSaddle.PrimalItemArmor_EquusSaddle_C
+    Galli Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_Gallimimus.PrimalItemArmor_Gallimimus_C 
+    Giga Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_tSaddle.PrimalItemArmor_tSaddle_C
+    Iguanadon Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_IguanodonSaddle.PrimalItemArmor_IguanodonSaddle_C
+    Kapro Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_KaprosuchusSaddle.PrimalItemArmor_KaprosuchusSaddle_C
+    Mammoth Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_MammothSaddle.PrimalItemArmor_MammothSaddle_C
+    Mammoth Platform Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_MammothSaddle_Platform.PrimalItemArmor_MammothSaddle_Platform_C
+    Manta Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_MantaSaddle.PrimalItemArmor_MantaSaddle_C
+    Megalodon Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_MegalodonSaddle.PrimalItemArmor_MegalodonSaddle_C
+    Tek Megalodon Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_MegalodonSaddle_Tek.PrimalItemArmor_MegalodonSaddle_Tek_C
+    Megalosaurus Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_MegalosaurusSaddle.PrimalItemArmor_MegalosaurusSaddle_C
+    Megatherium Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_MegatheriumSaddle.PrimalItemArmor_MegatheriumSaddle_C
+    Mosasaur Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_MosaSaddle.PrimalItemArmor_MosaSaddle_C
+    Mosasaur Platform Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_MosaSaddle_Platform.PrimalItemArmor_MosaSaddle_Platform_C
+    Mosasaur Tek Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_MosaSaddle_Tek.PrimalItemArmor_MosaSaddle_Tek_C
+    Pachyrhino Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_PachyrhinoSaddle.PrimalItemArmor_PachyrhinoSaddle_C
+    Pachy Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_PachySaddle.PrimalItemArmor_PachySaddle_C
+    Paracer Platform Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_ParacerSaddle_Platform.PrimalItemArmor_ParacerSaddle_Platform_C
+    Paracer Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_Paracer_Saddle.PrimalItemArmor_Paracer_Saddle_C
+    Parasaur Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_ParaSaddle.PrimalItemArmor_ParaSaddle_C
+    Parasuar Saddle 2 -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_ParaSaddle_Launch.PrimalItemArmor_ParaSaddle_Launch_C
+    Pelagornis Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_PelaSaddle.PrimalItemArmor_PelaSaddle_C
+    Phiomia Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_PhiomiaSaddle.PrimalItemArmor_PhiomiaSaddle_C
+    Plesi Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_PlesiaSaddle.PrimalItemArmor_PlesiaSaddle_C
+    Plesi Platform Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_PlesiSaddle_Platform.PrimalItemArmor_PlesiSaddle_Platform_C 
+    Procoptodon Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_ProcoptodonSaddle.PrimalItemArmor_ProcoptodonSaddle_C
+    Pteranodon Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_PteroSaddle.PrimalItemArmor_PteroSaddle_C
+    Quetz Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_QuetzSaddle.PrimalItemArmor_QuetzSaddle_C
+    Quetz Plat Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_QuetzSaddle_Platform.PrimalItemArmor_QuetzSaddle_Platform_C
+    Raptor Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RaptorSaddle.PrimalItemArmor_RaptorSaddle_C
+    Rex Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle.PrimalItemArmor_RexSaddle_C
+    Tek Rex Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle_Tek.PrimalItemArmor_RexSaddle_Tek_C
+    Rhino Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RhinoSaddle.PrimalItemArmor_RhinoSaddle_C
+    Sabertooth Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_SaberSaddle.PrimalItemArmor_SaberSaddle_C
+    GENERICTek Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_SaddleGeneric_Tek.PrimalItemArmor_SaddleGeneric_Tek_C
+    Sarco Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_SarcoSaddle.PrimalItemArmor_SarcoSaddle_C
+    Bronto Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_SauroSaddle.PrimalItemArmor_SauroSaddle_C
+    Bronto Plat Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_SauroSaddle_Platform.PrimalItemArmor_SauroSaddle_Platform_C
+    Scorpian Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_ScorpionSaddle.PrimalItemArmor_ScorpionSaddle_C
+    Araneo Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_SpiderSaddle.PrimalItemArmor_SpiderSaddle_C
+    Spino Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_SpinoSaddle.PrimalItemArmor_SpinoSaddle_C
+    Megalocerus Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_StagSaddle.PrimalItemArmor_StagSaddle_C
+    Stego Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_StegoSaddle.PrimalItemArmor_StegoSaddle_C
+    Tapejara Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_TapejaraSaddle.PrimalItemArmor_TapejaraSaddle_C
+    Tapejara Tek Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_Tapejara_Tek.PrimalItemArmor_Tapejara_Tek_C
+    Terror Bird Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_TerrorBirdSaddle.PrimalItemArmor_TerrorBirdSaddle_C
+    Therizino Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_TherizinosaurusSaddle.PrimalItemArmor_TherizinosaurusSaddle_C
+    Titanosaur Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_TitanSaddle_Platform.PrimalItemArmor_TitanSaddle_Platform_C 
+    Beelzebufo Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_ToadSaddle.PrimalItemArmor_ToadSaddle_C
+    Trike Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_TrikeSaddle.PrimalItemArmor_TrikeSaddle_C
+    Carbonemys Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_TurtleSaddle.PrimalItemArmor_TurtleSaddle_C
+    Tusoteuthis Saddle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_TusoSaddle.PrimalItemArmor_TusoSaddle_C
+    Raptor Saddle 2 -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemCostume_AnimeRaptor.PrimalItemCostume_AnimeRaptor_C
+    Bone Carno Costume -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemCostume_BoneCarno.PrimalItemCostume_BoneCarno_C
+    Bone Giga Costume -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemCostume_Bonet.PrimalItemCostume_Bonet_C
+    Bone Quetz Costume -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemCostume_BoneQuetz.PrimalItemCostume_BoneQuetz_C
+    Bone Raptor Costume -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemCostume_BoneRaptor.PrimalItemCostume_BoneRaptor_C
+    Bone Rex Costume -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemCostume_BoneRex.PrimalItemCostume_BoneRex_C
+    Bone Bronto Costume -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemCostume_BoneSauro.PrimalItemCostume_BoneSauro_C
+    Bone Stego Costume -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemCostume_BoneStego.PrimalItemCostume_BoneStego_C
+    Bone Trike Costume -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemCostume_BoneTrike.PrimalItemCostume_BoneTrike_C
+    Gas Mask -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/SCUBA/PrimalItemArmor_GasMask.PrimalItemArmor_GasMask_C
+    Night Vision Goggles -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/SCUBA/PrimalItemArmor_NightVisionGoggles.PrimalItemArmor_NightVisionGoggles_C
+    SCUBA Flippers -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/SCUBA/PrimalItemArmor_ScubaBoots_Flippers.PrimalItemArmor_ScubaBoots_Flippers_C
+    SCUBA Goggles -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/SCUBA/PrimalItemArmor_ScubaHelmet_Goggles.PrimalItemArmor_ScubaHelmet_Goggles_C
+    SCUBA Pants -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/SCUBA/PrimalItemArmor_ScubaPants.PrimalItemArmor_ScubaPants_C
+    SCUBA Tank -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/SCUBA/PrimalItemArmor_ScubaShirt_SuitWithTank.PrimalItemArmor_ScubaShirt_SuitWithTank_C
+    Metal Shield -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Shields/PrimalItemArmor_MetalShield.PrimalItemArmor_MetalShield_C
+    Tek Shield -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Shields/PrimalItemArmor_ShieldTek.PrimalItemArmor_ShieldTek_C
+    Riot Shield -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Shields/PrimalItemArmor_TransparentRiotShield.PrimalItemArmor_TransparentRiotShield_C
+    Skin Hunter Hat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemArmor_HunterHat.PrimalItemArmor_HunterHat_C 
+    Skin Antenna Hat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_Antenna.PrimalItemSkin_Antenna_C
+    Skin Beta Hat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_BetaHat.PrimalItemSkin_BetaHat_C
+    Skin Egg Hat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_BrokenEggHat.PrimalItemSkin_BrokenEggHat_C
+    Skin Bunny Hat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_BunnyEarsHat.PrimalItemSkin_BunnyEarsHat_C
+    Skin Captain Hait -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_CaptainHat.PrimalItemSkin_CaptainHat_C
+    Skin Cat Hat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_CatMask.PrimalItemSkin_CatMask_C
+    Skin Chick Hat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_ChickHat.PrimalItemSkin_ChickHat_C
+    Skin Chili Hat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_ChiliHelmet.PrimalItemSkin_ChiliHelmet_C
+    Skin Clown Hat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_ClownMask.PrimalItemSkin_ClownMask_C
+    Skin Devil Hat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_DevilHorns.PrimalItemSkin_DevilHorns_C
+    Skin Dilo Hat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_DiloMask.PrimalItemSkin_DiloMask_C
+    Skin Dino Hat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_DinoHat.PrimalItemSkin_DinoHat_C
+    Skin Dodorex Hat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_DodorexMask.PrimalItemSkin_DodorexMask_C
+    Skin Dodowyvern Hat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_DodowyvernHat.PrimalItemSkin_DodowyvernHat_C
+    Skin Dot Hat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_DogMask.PrimalItemSkin_DogMask_C
+    Skin Explorer Hat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_ExplorerHat.PrimalItemSkin_ExplorerHat_C
+    Skin GoldCrown Hat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_GoldCrown.PrimalItemSkin_GoldCrown_C
+    Skin Halo Hat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_HaloHat.PrimalItemSkin_HaloHat_C
+    Skin Manticore Boots -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_ManticoreBoots.PrimalItemSkin_ManticoreBoots_C
+    Skin Manticore Gloves -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_ManticoreGloves.PrimalItemSkin_ManticoreGloves_C
+    Skin Manticore Helmet -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_ManticoreHelmet.PrimalItemSkin_ManticoreHelmet_C
+    Skin Manticore Pants -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_ManticorePants.PrimalItemSkin_ManticorePants_C
+    Skin Manticore Shield -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_ManticoreShield.PrimalItemSkin_ManticoreShield_C 
+    Skin Manticore Shirt -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_ManticoreShirt.PrimalItemSkin_ManticoreShirt_C
+    Skin Party Hat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_PartyHat.PrimalItemSkin_PartyHat_C
+    Skin Razer Hat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_RazerHat.PrimalItemSkin_RazerHat_C
+    Skin Santa Hat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_SantaHat.PrimalItemSkin_SantaHat_C
+    Skin Skull Hat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_SkullMask.PrimalItemSkin_SkullMask_C
+    Skin Spinner Hat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_SpinnerHat.PrimalItemSkin_SpinnerHat_C
+    Skin Top Hat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_TopHat.PrimalItemSkin_TopHat_C
+    Skin Turkey Hat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_TurkeyHat.PrimalItemSkin_TurkeyHat_C
+    Skin Vampire Hat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_VampireEyes.PrimalItemSkin_VampireEyes_C
+    Skin Werewolf Hat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_WerewolfHat.PrimalItemSkin_WerewolfHat_C
+    Skin Witch Hat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_WitchHat.PrimalItemSkin_WitchHat_C
+    Tek Boots -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/TEK/PrimalItemArmor_TekBoots.PrimalItemArmor_TekBoots_C
+    Tek Gloves -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/TEK/PrimalItemArmor_TekGloves.PrimalItemArmor_TekGloves_C
+    Tek Helmet -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/TEK/PrimalItemArmor_TekHelmet.PrimalItemArmor_TekHelmet_C
+    Tek Pants -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/TEK/PrimalItemArmor_TekPants.PrimalItemArmor_TekPants_C
+    Tek SCUBA Mask -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/TEK/PrimalItemArmor_TEKScubaHelmet.PrimalItemArmor_TEKScubaHelmet_C
+    Tek Shirt -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/TEK/PrimalItemArmor_TekShirt.PrimalItemArmor_TekShirt_C
+    GENERICArtifact -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifactGeneric.PrimalItemArtifactGeneric_C
+    Artifact Hunter -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_01.PrimalItemArtifact_01_C
+    Artifact Pack -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_02.PrimalItemArtifact_02_C
+    Artifact Massive -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_03.PrimalItemArtifact_03_C
+    Artifact Devious -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_04.PrimalItemArtifact_04_C
+    Artifact Clever -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_05.PrimalItemArtifact_05_C 
+    Artifact Skylord -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_06.PrimalItemArtifact_06_C
+    Artifact Devour -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_07.PrimalItemArtifact_07_C
+    Artifact Immune -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_08.PrimalItemArtifact_08_C
+    Artifact Strong -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_09.PrimalItemArtifact_09_C
+    Artifact 10 -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_10.PrimalItemArtifact_C
+    Artifact Bonus -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItem_Bonus.PrimalItem_Bonus_C
+    Artifact Bonus2 -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItem_Bonus2.PrimalItem_Bonus2_C
+    Beer Jar -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_BeerJar.PrimalItemConsumable_BeerJar_C
+    Beer Jar 2 -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_BeerJarAlt.PrimalItemConsumable_BeerJarAlt_C
+    Amarberry -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Berry_Amarberry.PrimalItemConsumable_Berry_Amarberry_C
+    Azulberry -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Berry_Azulberry.PrimalItemConsumable_Berry_Azulberry_C
+    Mejoberry -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Berry_Mejoberry.PrimalItemConsumable_Berry_Mejoberry_C
+    Narcoberry -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Berry_Narcoberry.PrimalItemConsumable_Berry_Narcoberry_C
+    Stimberry -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Berry_Stimberry.PrimalItemConsumable_Berry_Stimberry_C
+    Tintoberry -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Berry_Tintoberry.PrimalItemConsumable_Berry_Tintoberry_C
+    Blood Pack -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_BloodPack.PrimalItemConsumable_BloodPack_C
+    Bug Repellant -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_BugRepellant.PrimalItemConsumable_BugRepellant_C
+    Cactus Soup -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CactusBuffSoup.PrimalItemConsumable_CactusBuffSoup_C
+    Canteen -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CanteenCraftable.PrimalItemConsumable_CanteenCraftable_C
+    Cooked Meat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedMeat.PrimalItemConsumable_CookedMeat_C
+    Cooked Fish Meat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedMeat_Fish.PrimalItemConsumable_CookedMeat_Fish_C
+    Cooked Meat Jerky -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedMeat_Jerky.PrimalItemConsumable_CookedMeat_Jerky_C
+    Cooked Prime Meat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedPrimeMeat.PrimalItemConsumable_CookedPrimeMeat_C 
+    Cooked Prime Fish Meat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedPrimeMeat_Fish.PrimalItemConsumable_CookedPrimeMeat_Fish_C
+    Cooked Prime Meat Jerky -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedPrimeMeat_Jerky.PrimalItemConsumable_CookedPrimeMeat_Jerky_C
+    Eery Candy -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_DinoCandy.PrimalItemConsumable_DinoCandy_C
+    Large Poop -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_DinoPoopLarge.PrimalItemConsumable_DinoPoopLarge_C
+    Massive Poop -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_DinoPoopMassive.PrimalItemConsumable_DinoPoopMassive_C
+    Medium Poop -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_DinoPoopMedium.PrimalItemConsumable_DinoPoopMedium_C
+    Small Poop -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_DinoPoopSmall.PrimalItemConsumable_DinoPoopSmall_C
+    BASE Dungeon Salve -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_DungeonSalve_Base.PrimalItemConsumable_DungeonSalve_Base_C
+    HemostatiCSerum -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_DungeonSalve_Healing.PrimalItemConsumable_DungeonSalve_Healing_C
+    Minor HemostatiCSerum -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_DungeonSalve_Healing_Minor.PrimalItemConsumable_DungeonSalve_Healing_Minor_C
+    Stamina Serum -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_DungeonSalve_Stamina.PrimalItemConsumable_DungeonSalve_Stamina_C
+    Dungeon Temperature Serum -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_DungeonSalve_Temperature.PrimalItemConsumable_DungeonSalve_Temperature_C
+    Dungeon Minor Temperature Serum -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_DungeonSalve_Temperature_Minor.PrimalItemConsumable_DungeonSalve_Temperature_Minor_C
+    Fertilizer Compost -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Fertilizer_Compost.PrimalItemConsumable_Fertilizer_Compost_C
+    Frog Legs -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_FrogLegs.PrimalItemConsumable_FrogLegs_C
+    Medical Brews -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_HealSoup.PrimalItemConsumable_HealSoup_C
+    Honey -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Honey.PrimalItemConsumable_Honey_C
+    Human Poop -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_HumanPoop.PrimalItemConsumable_HumanPoop_C
+    Ice Canteen -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_IcedCanteenRefill.PrimalItemConsumable_IcedCanteenRefill_C
+    Ice Water Jar -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_IcedWaterJarRefill.PrimalItemConsumable_IcedWaterJarRefill_C
+    Biotoxin -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_JellyVenom.PrimalItemConsumable_JellyVenom_C
+    Allo Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_Allo.PrimalItemConsumable_Kibble_Allo_C
+    Anky Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_AnkyloEgg.PrimalItemConsumable_Kibble_AnkyloEgg_C 
+    Archaeoptryx Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_ArchaEgg.PrimalItemConsumable_Kibble_ArchaEgg_C
+    Argentavis Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_ArgentEgg.PrimalItemConsumable_Kibble_ArgentEgg_C
+    Baryonyx Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_BaryonyxEgg.PrimalItemConsumable_Kibble_BaryonyxEgg_C
+    Titanboa Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_BoaEgg.PrimalItemConsumable_Kibble_BoaEgg_C
+    Carno Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_CarnoEgg.PrimalItemConsumable_Kibble_CarnoEgg_C
+    Compy Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_Compy.PrimalItemConsumable_Kibble_Compy_C
+    Dilo Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_DiloEgg.PrimalItemConsumable_Kibble_DiloEgg_C
+    Dimetro Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_DimetroEgg.PrimalItemConsumable_Kibble_DimetroEgg_C
+    Dimorph Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_DimorphEgg.PrimalItemConsumable_Kibble_DimorphEgg_C
+    Diplodocus Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_DiploEgg.PrimalItemConsumable_Kibble_DiploEgg_C
+    Dodo Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_DodoEgg.PrimalItemConsumable_Kibble_DodoEgg_C
+    Galli Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_GalliEgg.PrimalItemConsumable_Kibble_GalliEgg_C
+    Griffin Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_Griffin.PrimalItemConsumable_Kibble_Griffin_C
+    Iguanadon Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_IguanodonEgg.PrimalItemConsumable_Kibble_IguanodonEgg_C
+    Kairuku Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_KairukuEgg.PrimalItemConsumable_Kibble_KairukuEgg_C
+    Kapro Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_KaproEgg.PrimalItemConsumable_Kibble_KaproEgg_C
+    Lystro Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_LystroEgg.PrimalItemConsumable_Kibble_LystroEgg_C
+    Megalosaurus Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_MegalosaurusEgg.PrimalItemConsumable_Kibble_MegalosaurusEgg_C
+    Moschops Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_MoschopsEgg.PrimalItemConsumable_Kibble_MoschopsEgg_C
+    Oviraptor Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_OviraptorEgg.PrimalItemConsumable_Kibble_OviraptorEgg_C
+    Pachy Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_PachyEgg.PrimalItemConsumable_Kibble_PachyEgg_C
+    Pachyrhino Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_PachyRhinoEgg.PrimalItemConsumable_Kibble_PachyRhinoEgg_C
+    Parasaur Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_ParaEgg.PrimalItemConsumable_Kibble_ParaEgg_C 
+    Pelagornis Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_Pela.PrimalItemConsumable_Kibble_Pela_C
+    Pteranodon Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_PteroEgg.PrimalItemConsumable_Kibble_PteroEgg_C
+    Quetz Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_QuetzEgg.PrimalItemConsumable_Kibble_QuetzEgg_C
+    Raptor Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_RaptorEgg.PrimalItemConsumable_Kibble_RaptorEgg_C
+    Rex Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_RexEgg.PrimalItemConsumable_Kibble_RexEgg_C
+    Sarco Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_SarcoEgg.PrimalItemConsumable_Kibble_SarcoEgg_C
+    Bronto Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_SauroEgg.PrimalItemConsumable_Kibble_SauroEgg_C
+    Pulmonoscorpius Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_ScorpionEgg.PrimalItemConsumable_Kibble_ScorpionEgg_C
+    Araneo Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_SpiderEgg.PrimalItemConsumable_Kibble_SpiderEgg_C
+    Spino Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_SpinoEgg.PrimalItemConsumable_Kibble_SpinoEgg_C
+    Stego Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_StegoEgg.PrimalItemConsumable_Kibble_StegoEgg_C
+    Tape Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_TapejaraEgg.PrimalItemConsumable_Kibble_TapejaraEgg_C
+    Terror Bird Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_TerrorbirdEgg.PrimalItemConsumable_Kibble_TerrorbirdEgg_C
+    Therizino Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_TherizinoEgg.PrimalItemConsumable_Kibble_TherizinoEgg_C
+    Trike Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_TrikeEgg.PrimalItemConsumable_Kibble_TrikeEgg_C
+    Troodon Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_TroodonEgg.PrimalItemConsumable_Kibble_TroodonEgg_C
+    Carbonemys Kibble -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_TurtleEgg.PrimalItemConsumable_Kibble_TurtleEgg_C
+    Narcotics -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Narcotic.PrimalItemConsumable_Narcotic_C
+    Meganeura Husk -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_NeuraHusk.PrimalItemConsumable_NeuraHusk_C
+    Herbivore Pheromone -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_PheromoneHerb.PrimalItemConsumable_PheromoneHerb_C
+    Carno Pheromone -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_PheromoneMeat.PrimalItemConsumable_PheromoneMeat_C
+    Potent Med Brew -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_PotentHealSoup.PrimalItemConsumable_PotentHealSoup_C
+    Potent Stam Brew -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_PotentStaminaSoup.PrimalItemConsumable_PotentStaminaSoup_C 
+    Raw Meat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMeat.PrimalItemConsumable_RawMeat_C
+    Raw Fish Meat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMeat_Fish.PrimalItemConsumable_RawMeat_Fish_C
+    Raw Prime Meat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawPrimeMeat.PrimalItemConsumable_RawPrimeMeat_C
+    Raw Prime Fish Meat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawPrimeMeat_Fish.PrimalItemConsumable_RawPrimeMeat_Fish_C
+    Soothing Balm -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SoothingBalm.PrimalItemConsumable_SoothingBalm_C
+    Major Soothing Balm -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SoothingBalm_Major.PrimalItemConsumable_SoothingBalm_Major_C
+    Minor Soothing Balm -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SoothingBalm_Minor.PrimalItemConsumable_SoothingBalm_Minor_C
+    Battle Tarte -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Soup_BattleTartare.PrimalItemConsumable_Soup_BattleTartare_C
+    Calien Soup -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Soup_CalienSoup.PrimalItemConsumable_Soup_CalienSoup_C
+    Enduro Stew -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Soup_EnduroStew.PrimalItemConsumable_Soup_EnduroStew_C
+    Focal Chilli -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Soup_FocalChili.PrimalItemConsumable_Soup_FocalChili_C
+    Fria Curry -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Soup_FriaCurry.PrimalItemConsumable_Soup_FriaCurry_C
+    Lazarus Chowder -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Soup_LazarusChowder.PrimalItemConsumable_Soup_LazarusChowder_C
+    Shadow Steak -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Soup_ShadowSteak.PrimalItemConsumable_Soup_ShadowSteak_C
+    Spoiled Meat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SpoiledMeat.PrimalItemConsumable_SpoiledMeat_C
+    Stam Brew -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_StaminaSoup.PrimalItemConsumable_StaminaSoup_C
+    Stimulant -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Stimulant.PrimalItemConsumable_Stimulant_C
+    Super TEST Meat -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SuperTestMeat.PrimalItemConsumable_SuperTestMeat_C
+    Veggie Cake -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SweetVeggieCake.PrimalItemConsumable_SweetVeggieCake_C
+    Rhino Horn -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_TheHorn.PrimalItemConsumable_TheHorn_C
+    TOAST -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_TOAST.PrimalItemConsumable_TOAST_C
+    Unicorn Poop -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_UnicornPoop.PrimalItemConsumable_UnicornPoop_C
+    Citronal -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Veggie_Citronal.PrimalItemConsumable_Veggie_Citronal_C 
+    Longrass -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Veggie_Longrass.PrimalItemConsumable_Veggie_Longrass_C
+    Rockarrot -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Veggie_Rockarrot.PrimalItemConsumable_Veggie_Rockarrot_C
+    Noctis Rockarrot -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Veggie_Rockarrot_Anticorn.PrimalItemConsumable_Veggie_Rockarrot_Anticorn_C
+    Savoroot -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Veggie_Savoroot.PrimalItemConsumable_Veggie_Savoroot_C
+    Water Jar -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_WaterJarCraftable.PrimalItemConsumable_WaterJarCraftable_C
+    Water Jar2 -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_WaterJarRefill.PrimalItemConsumable_WaterJarRefill_C
+    Water Skin -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_WaterskinRefill.PrimalItemConsumable_WaterskinRefill_C
+    CustomDrink1 -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemCustomDrinkRecipe_Type1.PrimalItemCustomDrinkRecipe_Type1_C
+    CustomDrink2 -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemCustomDrinkRecipe_Type2.PrimalItemCustomDrinkRecipe_Type2_C
+    CustomFood1 -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemCustomFoodRecipe_Type1.PrimalItemCustomFoodRecipe_Type1_C
+    CustomFood2 -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemCustomFoodRecipe_Type2.PrimalItemCustomFoodRecipe_Type2_C
+    CustomFood3 -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemCustomFoodRecipe_Type3.PrimalItemCustomFoodRecipe_Type3_C
+    Appearance Change Ticket -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItem_AppearanceChangeTicket.PrimalItem_AppearanceChangeTicket_C
+    Rename Ticket -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItem_RenameTicket.PrimalItem_RenameTicket_C
+    Fertilizer -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumableMiracleGro.PrimalItemConsumableMiracleGro_C
+    Nirvana Soup -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumableNirvanaSoup.PrimalItemConsumableNirvanaSoup_C
+    Mindwipe ToniC-    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumableRespecSoup.PrimalItemConsumableRespecSoup_C
+    Soap -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumableSoap.PrimalItemConsumableSoap_C
+    Fertilizer -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_Fertilizer_Base.PrimalItemConsumable_Fertilizer_Base_C
+    Turkey Emote -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_UnlockEmote_Turkey.PrimalItemConsumable_UnlockEmote_Turkey_C
+    Wyvern Milk -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_WyvernMilk.PrimalItemConsumable_WyvernMilk_C
+    CustomDrink -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemCustomDrinkRecipe_Base.PrimalItemCustomDrinkRecipe_Base_C
+    CustomFood -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemCustomFoodRecipe_Base.PrimalItemCustomFoodRecipe_Base_C
+    Extravagant Gift -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/MailedItems/MailedItem_Extravagant.MailedItem_Extravagant_C
+    Extravagant Prank Gift -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/MailedItems/MailedItem_ExtravagantPrank.MailedItem_ExtravagantPrank_C
+    Nice Gift -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/MailedItems/MailedItem_Nice.MailedItem_Nice_C
+    Nice Prank Gift -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/MailedItems/MailedItem_NicePrank.MailedItem_NicePrank_C
+    Simple Gift -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/MailedItems/MailedItem_Simple.MailedItem_Simple_C
+    Simple Prank Gift -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/MailedItems/MailedItem_SimplePrank.MailedItem_SimplePrank_C
+    Amarberry Seed -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Amarberry.PrimalItemConsumable_Seed_Amarberry_C
+    Amarberry FAST Seed -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Amarberry_SpeedHack.PrimalItemConsumable_Seed_Amarberry_SpeedHack_C
+    Azulberry Seed -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Azulberry.PrimalItemConsumable_Seed_Azulberry_C
+    Axulberry FAST Seed -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Azulberry_SpeedHack.PrimalItemConsumable_Seed_Azulberry_SpeedHack_C
+    GENERICBerry Seed -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_BaseBerry.PrimalItemConsumable_Seed_BaseBerry_C
+    Super Veggie Seed -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_BaseSuperVeggie.PrimalItemConsumable_Seed_BaseSuperVeggie_C
+    Citronal Seed -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Citronal.PrimalItemConsumable_Seed_Citronal_C
+    Citronal FAST Seed -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Citronal_SpeedHack.PrimalItemConsumable_Seed_Citronal_SpeedHack_C
+    Plant X Seed -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_DefensePlant.PrimalItemConsumable_Seed_DefensePlant_C
+    Plant X FAST Seed -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_DefensePlant_SpeedHack.PrimalItemConsumable_Seed_DefensePlant_SpeedHack_C
+    Longrass Seed -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Longrass.PrimalItemConsumable_Seed_Longrass_C
+    Longrass FAST Seed -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Longrass_SpeedHack.PrimalItemConsumable_Seed_Longrass_SpeedHack_C
+    Mejoberry Seed -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Mejoberry.PrimalItemConsumable_Seed_Mejoberry_C
+    Mejoberry FAST Seed -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Mejoberry_SpeedHack.PrimalItemConsumable_Seed_Mejoberry_SpeedHack_C
+    Narcoberry Seed -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Narcoberry.PrimalItemConsumable_Seed_Narcoberry_C
+    Narcoberry FAST Seed -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Narcoberry_SpeedHack.PrimalItemConsumable_Seed_Narcoberry_SpeedHack_C
+    Rockarrot Seed -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Rockarrot.PrimalItemConsumable_Seed_Rockarrot_C 
+    Rockarrot FAST Seed -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Rockarrot_SpeedHack.PrimalItemConsumable_Seed_Rockarrot_SpeedHack_C
+    Savoroot Seed -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Savoroot.PrimalItemConsumable_Seed_Savoroot_C
+    Savoroot FAST Seed -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Savoroot_SpeedHack.PrimalItemConsumable_Seed_Savoroot_SpeedHack_C
+    Stimberry Seed -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Stimberry.PrimalItemConsumable_Seed_Stimberry_C
+    Stimberry FAST Seed -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Stimberry_SpeedHack.PrimalItemConsumable_Seed_Stimberry_SpeedHack_C
+    Tintoberry Seed -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Tintoberry.PrimalItemConsumable_Seed_Tintoberry_C
+    Tintoberry FAST Seed -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Tintoberry_SpeedHack.PrimalItemConsumable_Seed_Tintoberry_SpeedHack_C
+    Aerial Symboite -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Misc/Special/PrimalItem_DragonFlyWings.PrimalItem_DragonFlyWings_C
+    Fist -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Notes/PrimalItem_Fist.PrimalItem_Fist_C
+    Note -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Notes/PrimalItem_Note.PrimalItem_Note_C
+    Large Elevator Platform -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/BuildingBases/PrimalItemStructure_ElevatorPlatformLarge.PrimalItemStructure_ElevatorPlatformLarge_C
+    Small Elevator Platform -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/BuildingBases/PrimalItemStructure_ElevatorPlatformSmall.PrimalItemStructure_ElevatorPlatformSmall_C
+    Medium Elevator Platform -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/BuildingBases/PrimalItemStructure_ElevatorPlatfromMedium.PrimalItemStructure_ElevatorPlatfromMedium_C
+    Elevator Track -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/BuildingBases/PrimalItemStructure_ElevatorTrackBase.PrimalItemStructure_ElevatorTrackBase_C
+    Box Hedge -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/BuildingBases/PrimalItemStructure_HedgeBox.PrimalItemStructure_HedgeBox_C
+    Cone Hedge -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/BuildingBases/PrimalItemStructure_HedgeCone.PrimalItemStructure_HedgeCone_C
+    Spehere Hedge -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/BuildingBases/PrimalItemStructure_HedgeSphere.PrimalItemStructure_HedgeSphere_C
+    Greenhouse Ceiling -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Greenhouse/PrimalItemStructure_GreenhouseCeiling.PrimalItemStructure_GreenhouseCeiling_C
+    Greenhouse Door -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Greenhouse/PrimalItemStructure_GreenhouseDoor.PrimalItemStructure_GreenhouseDoor_C
+    Greenhouse Roof -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Greenhouse/PrimalItemStructure_GreenhouseRoof.PrimalItemStructure_GreenhouseRoof_C 
+    Greenhouse Wall -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Greenhouse/PrimalItemStructure_GreenhouseWall.PrimalItemStructure_GreenhouseWall_C
+    Greenhouse Doorframe -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Greenhouse/PrimalItemStructure_GreenhouseWallWithDoor.PrimalItemStructure_GreenhouseWallWithDoor_C
+    Greenhouse Windowframe -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Greenhouse/PrimalItemStructure_GreenhouseWallWithWindow.PrimalItemStructure_GreenhouseWallWithWindow_C
+    Greenhouse Sloped Left -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Greenhouse/PrimalItemStructure_GreenhouseWall_Sloped_Left.PrimalItemStructure_GreenhouseWall_Sloped_Left_C
+    Greenhouse Sloped Right -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Greenhouse/PrimalItemStructure_GreenhouseWall_Sloped_Right.PrimalItemStructure_GreenhouseWall_Sloped_Right_C
+    Greenhouse Window -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Greenhouse/PrimalItemStructure_GreenhouseWindow.PrimalItemStructure_GreenhouseWindow_C
+    Easter Egg -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Halloween/PrimalItemStructure_EasterEgg.PrimalItemStructure_EasterEgg_C
+    Grave -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Halloween/PrimalItemStructure_HW_Grave.PrimalItemStructure_HW_Grave_C
+    Pumpkin -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Halloween/PrimalItemStructure_Pumpkin.PrimalItemStructure_Pumpkin_C
+    Scarecrow -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Halloween/PrimalItemStructure_Scarecrow.PrimalItemStructure_Scarecrow_C
+    TrainingDummy -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Halloween/PrimalItemStructure_TrainingDummy.PrimalItemStructure_TrainingDummy_C
+    Lootcrate Base -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/LootCrates/PrimalItem_LootCrate_Base.PrimalItem_LootCrate_Base_C
+    Lootcrate Metal -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/LootCrates/PrimalItem_LootCrate_MetalResourcePack.PrimalItem_LootCrate_MetalResourcePack_C
+    Lootcrate Random -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/LootCrates/PrimalItem_LootCrate_Random.PrimalItem_LootCrate_Random_C
+    Lootcrate Amber -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/LootCrates/PrimalItem_LootCrate_SingleDinoResKit.PrimalItem_LootCrate_SingleDinoResKit_C
+    Lootcrate Stone -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/LootCrates/PrimalItem_LootCrate_StoneResourcePack.PrimalItem_LootCrate_StoneResourcePack_C
+    Lootcrate Thatch -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/LootCrates/PrimalItem_LootCrate_ThatchResourcePack.PrimalItem_LootCrate_ThatchResourcePack_C
+    Lootcrate Wood -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/LootCrates/PrimalItem_LootCrate_WoodResourcePack.PrimalItem_LootCrate_WoodResourcePack_C
+    Metal Curved Battlement -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalBattlement_Curved.PrimalItemStructure_MetalBattlement_Curved_C
+    Metal Straight Battlement -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalBattlement_Large.PrimalItemStructure_MetalBattlement_Large_C
+    Metal Catwalk -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalCatwalk.PrimalItemStructure_MetalCatwalk_C
+    Metal Ceiling -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalCeiling.PrimalItemStructure_MetalCeiling_C
+    Metal Hatchframe -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalCeilingWithTrapdoor.PrimalItemStructure_MetalCeilingWithTrapdoor_C 
+    Metal Giant Hatchframe -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalCeilingWithTrapdoorGiant.PrimalItemStructure_MetalCeilingWithTrapdoorGiant_C
+    Metal Door -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalDoor.PrimalItemStructure_MetalDoor_C
+    Metal Fence Foundation -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalFenceFoundation.PrimalItemStructure_MetalFenceFoundation_C
+    Metal Foundation -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalFloor.PrimalItemStructure_MetalFloor_C
+    Metal Gate -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalGate.PrimalItemStructure_MetalGate_C
+    Metal Gateframe -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalGateframe.PrimalItemStructure_MetalGateframe_C
+    Metal Behemoth Gateframe -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalGateframe_Large.PrimalItemStructure_MetalGateframe_Large_C
+    Metal Behemoth Gate -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalGate_Large.PrimalItemStructure_MetalGate_Large_C
+    Metal Ladder -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalLadder.PrimalItemStructure_MetalLadder_C
+    Metal Pillar -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalPillar.PrimalItemStructure_MetalPillar_C
+    Metal Railing -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalRailing.PrimalItemStructure_MetalRailing_C
+    Metal Ramp -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalRamp.PrimalItemStructure_MetalRamp_C
+    Metal Sign -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalSign.PrimalItemStructure_MetalSign_C
+    Metal Billboard -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalSign_Large.PrimalItemStructure_MetalSign_Large_C
+    Metal Wall Sign -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalSign_Wall.PrimalItemStructure_MetalSign_Wall_C
+    Metal Spike Wall -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalSpikeWall.PrimalItemStructure_MetalSpikeWall_C
+    Metal Stairs -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalStairs.PrimalItemStructure_MetalStairs_C
+    Metal Trapdoor -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalTrapdoor.PrimalItemStructure_MetalTrapdoor_C
+    Metal Giant Trapdoor -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalTrapdoorGiant.PrimalItemStructure_MetalTrapdoorGiant_C
+    Metal Wall -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalWall.PrimalItemStructure_MetalWall_C
+    Metal Doorframe -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalWallWithDoor.PrimalItemStructure_MetalWallWithDoor_C
+    Metal Windowframe -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalWallWithWindow.PrimalItemStructure_MetalWallWithWindow_C
+    Metal Window -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalWindow.PrimalItemStructure_MetalWindow_C 
+    Race Flag -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimaItemStructure_RaceFlag.PrimaItemStructure_RaceFlag_C
+    Outpost -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemPremiumStructure_BaitAndTackle.PrimalItemPremiumStructure_BaitAndTackle_C
+    Chef Station -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemPremiumStructure_ChefStation.PrimalItemPremiumStructure_ChefStation_C
+    Dye Studio -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemPremiumStructure_DyeStudio.PrimalItemPremiumStructure_DyeStudio_C
+    Factory -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemPremiumStructure_Factory.PrimalItemPremiumStructure_Factory_C
+    Loading Bench -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemPremiumStructure_LoadingBench.PrimalItemPremiumStructure_LoadingBench_C
+    Lumber Mill -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemPremiumStructure_LumberMill.PrimalItemPremiumStructure_LumberMill_C
+    Metal Foundry -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemPremiumStructure_MetalFoundry.PrimalItemPremiumStructure_MetalFoundry_C
+    Stone Workshop -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemPremiumStructure_StoneWorkshop.PrimalItemPremiumStructure_StoneWorkshop_C
+    Tannery -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemPremiumStructure_Tannery.PrimalItemPremiumStructure_Tannery_C
+    Air Conditioner -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_AirConditioner.PrimalItemStructure_AirConditioner_C
+    Alarm Clock -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_AlarmClock.PrimalItemStructure_AlarmClock_C
+    Smithy -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_AnvilBench.PrimalItemStructure_AnvilBench_C
+    Bear Trap -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_BearTrap.PrimalItemStructure_BearTrap_C
+    Large Bear Trap -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_BearTrap_Large.PrimalItemStructure_BearTrap_Large_C
+    Bunk Bed -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_Bed_Modern.PrimalItemStructure_Bed_Modern_C
+    Simple Bed -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_Bed_Simple.PrimalItemStructure_Bed_Simple_C
+    Sleeping Pod -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_Bed_Tek.PrimalItemStructure_Bed_Tek_C
+    Beer Barrel -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_BeerBarrel.PrimalItemStructure_BeerBarrel_C
+    Bookshelf -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_Bookshelf.PrimalItemStructure_Bookshelf_C
+    Campfire -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_Campfire.PrimalItemStructure_Campfire_C
+    Cannon -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_Cannon.PrimalItemStructure_Cannon_C
+    Chem Bench -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_ChemBench.PrimalItemStructure_ChemBench_C 
+    Compost Bin -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_CompostBin.PrimalItemStructure_CompostBin_C
+    Cooking Pot -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_CookingPot.PrimalItemStructure_CookingPot_C
+    Large Crop Plot -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_CropPlot_Large.PrimalItemStructure_CropPlot_Large_C
+    Medium Crop Plot -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_CropPlot_Medium.PrimalItemStructure_CropPlot_Medium_C
+    Small Crop Plot -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_CropPlot_Small.PrimalItemStructure_CropPlot_Small_C
+    Eerie Turret -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_Eerie_Turret.PrimalItemStructure_Eerie_Turret_C
+    Fabricator -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_Fabricator.PrimalItemStructure_Fabricator_C
+    Feeding Trouch -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_FeedingTrough.PrimalItemStructure_FeedingTrough_C
+    Fireplace -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_Fireplace.PrimalItemStructure_Fireplace_C
+    Flag -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_Flag.PrimalItemStructure_Flag_C
+    Dragon Flag -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_Flag_Dragon.PrimalItemStructure_Flag_Dragon_C
+    Gorilla Flag -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_Flag_Gorilla.PrimalItemStructure_Flag_Gorilla_C
+    Broodmother Flag -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_Flag_Spider.PrimalItemStructure_Flag_Spider_C
+    Refining Forge -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_Forge.PrimalItemStructure_Forge_C
+    Grill -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_Grill.PrimalItemStructure_Grill_C
+    Industrial Grinder -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_Grinder.PrimalItemStructure_Grinder_C
+    Refridgerator -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_IceBox.PrimalItemStructure_IceBox_C
+    Cooking Pot -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_IndustrialCookingPot.PrimalItemStructure_IndustrialCookingPot_C
+    Industrial Forge -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_IndustrialForge.PrimalItemStructure_IndustrialForge_C
+    Keypad -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_Keypad.PrimalItemStructure_Keypad_C
+    Lamppost -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_Lamppost.PrimalItemStructure_Lamppost_C
+    Omnidirectional Lamppost -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_LamppostOmni.PrimalItemStructure_LamppostOmni_C 
+    Mailbox -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_Mailbox.PrimalItemStructure_Mailbox_C
+    Mailbox 2 -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_Mailbox2.PrimalItemStructure_Mailbox2_C
+    Mailbox 3 -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_Mailbox3.PrimalItemStructure_Mailbox3_C
+    Mailbox BASE -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_MailboxBase.PrimalItemStructure_MailboxBase_C
+    Mortar and Pestle -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_MortarAndPestle.PrimalItemStructure_MortarAndPestle_C
+    Preserving Bin -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_PreservingBin.PrimalItemStructure_PreservingBin_C
+    Razer Torch -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_RazerTorch.PrimalItemStructure_RazerTorch_C
+    Resurrection Platform -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_ResurrectPlatform.PrimalItemStructure_ResurrectPlatform_C
+    Water Mine -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_SeaMine.PrimalItemStructure_SeaMine_C
+    Sleeping Bag -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_SleepingBag_Hide.PrimalItemStructure_SleepingBag_Hide_C
+    Standing Torch -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_StandingTorch.PrimalItemStructure_StandingTorch_C
+    Vault -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_StorageBox_Huge.PrimalItemStructure_StorageBox_Huge_C
+    Large Box -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_StorageBox_Large.PrimalItemStructure_StorageBox_Large_C
+    Small Box -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_StorageBox_Small.PrimalItemStructure_StorageBox_Small_C
+    Tek Implant Chamber -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_TekDNAExtractor.PrimalItemStructure_TekDNAExtractor_C
+    Tek Generator -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_TekGenerator.PrimalItemStructure_TekGenerator_C
+    Tek Kibble Processor -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_TekKibbleProcessor.PrimalItemStructure_TekKibbleProcessor_C
+    Tek Light -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_TekLight.PrimalItemStructure_TekLight_C
+    Tek Replicator -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_TekReplicator.PrimalItemStructure_TekReplicator_C
+    Tek Teleporter -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_TekTeleporter.PrimalItemStructure_TekTeleporter_C
+    Tek Trough -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_TekTrough.PrimalItemStructure_TekTrough_C
+    Toilet Paper -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_ToiletPaper.PrimalItemStructure_ToiletPaper_C
+    Trophy Base -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_TrophyBase.PrimalItemStructure_TrophyBase_C 
+    Trophy Wall -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_TrophyWall.PrimalItemStructure_TrophyWall_C
+    AutomatiCTurret -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_Turret.PrimalItemStructure_Turret_C
+    Ballista Turret -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_TurretBallista.PrimalItemStructure_TurretBallista_C
+    Catapult Turret -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_TurretCatapult.PrimalItemStructure_TurretCatapult_C
+    Minigun Turret -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_TurretMinigun.PrimalItemStructure_TurretMinigun_C
+    Plant X -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_TurretPlant.PrimalItemStructure_TurretPlant_C
+    Rocket Turret -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_TurretRocket.PrimalItemStructure_TurretRocket_C
+    Wall Torch -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_WallTorch.PrimalItemStructure_WallTorch_C
+    Metal Incline Pipe -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Pipes/PrimalItemStructure_MetalPipeIncline.PrimalItemStructure_MetalPipeIncline_C
+    Metal Intake Pipe -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Pipes/PrimalItemStructure_MetalPipeIntake.PrimalItemStructure_MetalPipeIntake_C
+    Metal Intersection Pipe -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Pipes/PrimalItemStructure_MetalPipeIntersection.PrimalItemStructure_MetalPipeIntersection_C
+    Metal Straight Pipe -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Pipes/PrimalItemStructure_MetalPipeStraight.PrimalItemStructure_MetalPipeStraight_C
+    Metal Pipe Tap -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Pipes/PrimalItemStructure_MetalPipeTap.PrimalItemStructure_MetalPipeTap_C
+    Metal Pipe Vertical -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Pipes/PrimalItemStructure_MetalPipeVertical.PrimalItemStructure_MetalPipeVertical_C
+    Power Incline Cable -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Pipes/PrimalItemStructure_PowerCableIncline.PrimalItemStructure_PowerCableIncline_C
+    Power Intersection Cable -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Pipes/PrimalItemStructure_PowerCableIntersection.PrimalItemStructure_PowerCableIntersection_C
+    Power Straight Cable -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Pipes/PrimalItemStructure_PowerCableStraight.PrimalItemStructure_PowerCableStraight_C
+    Power Vertical Cable -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Pipes/PrimalItemStructure_PowerCableVertical.PrimalItemStructure_PowerCableVertical_C
+    Power Generator -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Pipes/PrimalItemStructure_PowerGenerator.PrimalItemStructure_PowerGenerator_C
+    Power Outlet -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Pipes/PrimalItemStructure_PowerOutlet.PrimalItemStructure_PowerOutlet_C
+    Stone Incline Pipe -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Pipes/PrimalItemStructure_StonePipeIncline.PrimalItemStructure_StonePipeIncline_C
+    Stone Intake Pipe -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Pipes/PrimalItemStructure_StonePipeIntake.PrimalItemStructure_StonePipeIntake_C
+    Stone Intersection Pipe -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Pipes/PrimalItemStructure_StonePipeIntersection.PrimalItemStructure_StonePipeIntersection_C 
+    Stone Straight Pipe -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Pipes/PrimalItemStructure_StonePipeStraight.PrimalItemStructure_StonePipeStraight_C
+    Stone Pipe Tap -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Pipes/PrimalItemStructure_StonePipeTap.PrimalItemStructure_StonePipeTap_C
+    Stone Vertical Pipe -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Pipes/PrimalItemStructure_StonePipeVertical.PrimalItemStructure_StonePipeVertical_C
+    Tree Tap -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Pipes/PrimalItemStructure_TreeTap.PrimalItemStructure_TreeTap_C
+    Water Tank -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Pipes/PrimalItemStructure_WaterTank.PrimalItemStructure_WaterTank_C
+    Metal Water Tank -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Pipes/PrimalItemStructure_WaterTankMetal.PrimalItemStructure_WaterTankMetal_C
+    Water Valve -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Pipes/PrimalItemStructure_WaterValve.PrimalItemStructure_WaterValve_C
+    Metal Roof -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Roofs/Metal/PrimalItemStructure_MetalRoof.PrimalItemStructure_MetalRoof_C
+    Metal Sloped Left -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Roofs/Metal/PrimalItemStructure_MetalWall_Sloped_Left.PrimalItemStructure_MetalWall_Sloped_Left_C
+    Metal Sloped Right -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Roofs/Metal/PrimalItemStructure_MetalWall_Sloped_Right.PrimalItemStructure_MetalWall_Sloped_Right_C
+    Stone Roof -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Roofs/Stone/PrimalItemStructure_StoneRoof.PrimalItemStructure_StoneRoof_C
+    Stone Sloped Left -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Roofs/Stone/PrimalItemStructure_StoneWall_Sloped_Left.PrimalItemStructure_StoneWall_Sloped_Left_C
+    Stone Sloped Right -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Roofs/Stone/PrimalItemStructure_StoneWall_Sloped_Right.PrimalItemStructure_StoneWall_Sloped_Right_C
+    Thatch Roof -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Roofs/Thatch/PrimalItemStructure_ThatchRoof.PrimalItemStructure_ThatchRoof_C
+    Thatch Sloped Left -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Roofs/Thatch/PrimalItemStructure_ThatchWall_Sloped_Left.PrimalItemStructure_ThatchWall_Sloped_Left_C
+    Thatch Sloped Right -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Roofs/Thatch/PrimalItemStructure_ThatchWall_Sloped_Right.PrimalItemStructure_ThatchWall_Sloped_Right_C
+    Wood Roof -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Roofs/Wood/PrimalItemStructure_WoodRoof.PrimalItemStructure_WoodRoof_C
+    Wood Sloped Left -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Roofs/Wood/PrimalItemStructure_WoodWall_Sloped_Left.PrimalItemStructure_WoodWall_Sloped_Left_C
+    Wood Sloped Right -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Roofs/Wood/PrimalItemStructure_WoodWall_Sloped_Right.PrimalItemStructure_WoodWall_Sloped_Right_C
+    Curve Battlement -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Stone/PrimalItemStructure_Battlement_Curved.PrimalItemStructure_Battlement_Curved_C
+    Large Battlement -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Stone/PrimalItemStructure_Battlement_Large.PrimalItemStructure_Battlement_Large_C
+    Geopolymer Floor -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Stone/PrimalItemStructure_GeopolymerFloor.PrimalItemStructure_GeopolymerFloor_C
+    Geopolymer Pillar -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Stone/PrimalItemStructure_GeopolymerPillar.PrimalItemStructure_GeopolymerPillar_C
+    Stone Ceiling -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Stone/PrimalItemStructure_StoneCeiling.PrimalItemStructure_StoneCeiling_C
+    Giant Stone Trapdoor -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Stone/PrimalItemStructure_StoneCeilingDoorGiant.PrimalItemStructure_StoneCeilingDoorGiant_C
+    Stone Hatchframe -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Stone/PrimalItemStructure_StoneCeilingWithTrapdoor.PrimalItemStructure_StoneCeilingWithTrapdoor_C
+    Giant Stone Hatchframe -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Stone/PrimalItemStructure_StoneCeilingWithTrapdoorGiant.PrimalItemStructure_StoneCeilingWithTrapdoorGiant_C
+    Stone Door -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Stone/PrimalItemStructure_StoneDoor.PrimalItemStructure_StoneDoor_C
+    Stone Fence Foundation -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Stone/PrimalItemStructure_StoneFenceFoundation.PrimalItemStructure_StoneFenceFoundation_C
+    Stone Floor -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Stone/PrimalItemStructure_StoneFloor.PrimalItemStructure_StoneFloor_C
+    Stone Gate -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Stone/PrimalItemStructure_StoneGate.PrimalItemStructure_StoneGate_C
+    Stone Gateframe -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Stone/PrimalItemStructure_StoneGateframe.PrimalItemStructure_StoneGateframe_C
+    Stone Behemoth Gateframe -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Stone/PrimalItemStructure_StoneGateframe_Large.PrimalItemStructure_StoneGateframe_Large_C
+    Stone Behemoth Gate -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Stone/PrimalItemStructure_StoneGateLarge.PrimalItemStructure_StoneGateLarge_C
+    Stone Pillar -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Stone/PrimalItemStructure_StonePillar.PrimalItemStructure_StonePillar_C
+    Stone Railing -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Stone/PrimalItemStructure_StoneRailing.PrimalItemStructure_StoneRailing_C
+    Stone Stairs -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Stone/PrimalItemStructure_StoneStairs.PrimalItemStructure_StoneStairs_C 
+    Stone Wall -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Stone/PrimalItemStructure_StoneWall.PrimalItemStructure_StoneWall_C
+    Stone Doorframe -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Stone/PrimalItemStructure_StoneWallWithDoor.PrimalItemStructure_StoneWallWithDoor_C
+    Stone Windowgrame -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Stone/PrimalItemStructure_StoneWallWithWindow.PrimalItemStructure_StoneWallWithWindow_C
+    Tek Ceiling -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Tek/PrimalItemStructure_TekCeiling.PrimalItemStructure_TekCeiling_C
+    Tek Hatchframe -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Tek/PrimalItemStructure_TekCeilingWithTrapdoor.PrimalItemStructure_TekCeilingWithTrapdoor_C
+    Tek Door -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Tek/PrimalItemStructure_TekDoor.PrimalItemStructure_TekDoor_C
+    Tek Fence Foundation -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Tek/PrimalItemStructure_TekFenceFoundation.PrimalItemStructure_TekFenceFoundation_C
+    Tek Floor -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Tek/PrimalItemStructure_TekFloor.PrimalItemStructure_TekFloor_C
+    Tek Ladder -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Tek/PrimalItemStructure_TekLadder.PrimalItemStructure_TekLadder_C
+    Tek Pillar -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Tek/PrimalItemStructure_TekPillar.PrimalItemStructure_TekPillar_C
+    Tek Railing -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Tek/PrimalItemStructure_TekRailing.PrimalItemStructure_TekRailing_C
+    Tek Ramp -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Tek/PrimalItemStructure_TekRamp.PrimalItemStructure_TekRamp_C
+    Tek Roof -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Tek/PrimalItemStructure_TekRoof.PrimalItemStructure_TekRoof_C
+    Tek Stairs -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Tek/PrimalItemStructure_TekStairs.PrimalItemStructure_TekStairs_C
+    Tek Trapdoor -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Tek/PrimalItemStructure_TekTrapdoor.PrimalItemStructure_TekTrapdoor_C
+    Tek Wall -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Tek/PrimalItemStructure_TekWall.PrimalItemStructure_TekWall_C
+    Tek Doorframe -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Tek/PrimalItemStructure_TekWallWithDoor.PrimalItemStructure_TekWallWithDoor_C
+    Tek Windowgrame -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Tek/PrimalItemStructure_TekWallWithWindow.PrimalItemStructure_TekWallWithWindow_C
+    Tek Sloped Left -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Tek/PrimalItemStructure_TekWall_Sloped_Left.PrimalItemStructure_TekWall_Sloped_Left_C
+    Tek Sloped Right -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Tek/PrimalItemStructure_TekWall_Sloped_Right.PrimalItemStructure_TekWall_Sloped_Right_C
+    Tek Window -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Tek/PrimalItemStructure_TekWindow.PrimalItemStructure_TekWindow_C
+    Thatch Ceiling -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Thatch/PrimalItemStructure_ThatchCeiling.PrimalItemStructure_ThatchCeiling_C
+    Thatch Door -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Thatch/PrimalItemStructure_ThatchDoor.PrimalItemStructure_ThatchDoor_C 
+    Thatch Floor -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Thatch/PrimalItemStructure_ThatchFloor.PrimalItemStructure_ThatchFloor_C
+    Thatch Wall -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Thatch/PrimalItemStructure_ThatchWall.PrimalItemStructure_ThatchWall_C
+    Thatch Doorframe -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Thatch/PrimalItemStructure_ThatchWallWithDoor.PrimalItemStructure_ThatchWallWithDoor_C
+    Cantilever Platform -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_Cantilever.PrimalItemStructure_Cantilever_C
+    Gravestone -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_Furniture_Gravestone.PrimalItemStructure_Furniture_Gravestone_C
+    Wood Bench -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_Furniture_WoodBench.PrimalItemStructure_Furniture_WoodBench_C
+    Wood Chair -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_Furniture_WoodChair.PrimalItemStructure_Furniture_WoodChair_C 
+    Wood Table -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_Furniture_WoodTable.PrimalItemStructure_Furniture_WoodTable_C
+    Rope Ladder -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_RopeLadder.PrimalItemStructure_RopeLadder_C
+    Stone Trapdoor -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_StoneTrapdoor.PrimalItemStructure_StoneTrapdoor_C
+    Stone Window -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_StoneWindow.PrimalItemStructure_StoneWindow_C
+    Metal Tree Platform -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_TreePlatform_Metal.PrimalItemStructure_TreePlatform_Metal_C
+    Wood Tree Platform -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_TreePlatform_Wood.PrimalItemStructure_TreePlatform_Wood_C
+    Wardrums -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_Wardrums.PrimalItemStructure_Wardrums_C
+    Wood Cage -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_WoodCage.PrimalItemStructure_WoodCage_C
+    Wood Catwalk -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_WoodCatwalk.PrimalItemStructure_WoodCatwalk_C
+    Wood Ceiling -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_WoodCeiling.PrimalItemStructure_WoodCeiling_C
+    Wood Hatchframe -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_WoodCeilingWithTrapdoor.PrimalItemStructure_WoodCeilingWithTrapdoor_C
+    Wood Door -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_WoodDoor.PrimalItemStructure_WoodDoor_C
+    Wood Fence Foundation -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_WoodFenceFoundation.PrimalItemStructure_WoodFenceFoundation_C
+    Wood Floor -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_WoodFloor.PrimalItemStructure_WoodFloor_C
+    Wood Gate -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_WoodGate.PrimalItemStructure_WoodGate_C
+    Wood Gateframe -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_WoodGateframe.PrimalItemStructure_WoodGateframe_C
+    Wood Ladder -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_WoodLadder.PrimalItemStructure_WoodLadder_C
+    Wood Pillar -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_WoodPillar.PrimalItemStructure_WoodPillar_C
+    Wood Railing -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_WoodRailing.PrimalItemStructure_WoodRailing_C
+    Wood Ramp -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_WoodRamp.PrimalItemStructure_WoodRamp_C
+    Wood Sign -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_WoodSign.PrimalItemStructure_WoodSign_C
+    Wood Billboard -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_WoodSign_Large.PrimalItemStructure_WoodSign_Large_C
+    Wood Wall Sign -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_WoodSign_Wall.PrimalItemStructure_WoodSign_Wall_C 
+    Wood Spike Wall -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_WoodSpikeWall.PrimalItemStructure_WoodSpikeWall_C
+    Wood Stairs -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_WoodStairs.PrimalItemStructure_WoodStairs_C
+    Wood Trapdoor -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_WoodTrapdoor.PrimalItemStructure_WoodTrapdoor_C
+    Wood Wall -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_WoodWall.PrimalItemStructure_WoodWall_C
+    Wood Doorframe -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_WoodWallWithDoor.PrimalItemStructure_WoodWallWithDoor_C
+    Wood Windowgrame -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_WoodWallWithWindow.PrimalItemStructure_WoodWallWithWindow_C
+    Wood Window -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_WoodWindow.PrimalItemStructure_WoodWindow_C 
+    Alpha Rex Trophy -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_AlphaRex.PrimalItemTrophy_AlphaRex_C
+    ARK Trophy -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_ARKLogo.PrimalItemTrophy_ARKLogo_C
+    Broodmother Trophy -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_Broodmother.PrimalItemTrophy_Broodmother_C
+    Dragon Trophy -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_Dragon.PrimalItemTrophy_Dragon_C
+    Gorilla Torphy -    
+	/Game/PrimalEarth/CoreBlueprints/Items/Trophies/PrimalItemTrophy_Gorilla.PrimalItemTrophy_Gorilla_C
+    Flashlight -    
+	/Game/PrimalEarth/CoreBlueprints/Items/WeaponAttachments/PrimalItemWeaponAttachment_Flashlight.PrimalItemWeaponAttachment_Flashlight_C
+    HolographiCScope -    
+	/Game/PrimalEarth/CoreBlueprints/Items/WeaponAttachments/PrimalItemWeaponAttachment_HoloScope.PrimalItemWeaponAttachment_HoloScope_C
+    Laser -    
+	/Game/PrimalEarth/CoreBlueprints/Items/WeaponAttachments/PrimalItemWeaponAttachment_Laser.PrimalItemWeaponAttachment_Laser_C
+    Scope -    
+	/Game/PrimalEarth/CoreBlueprints/Items/WeaponAttachments/PrimalItemWeaponAttachment_Scope.PrimalItemWeaponAttachment_Scope_C
+    Silencer -    
+	/Game/PrimalEarth/CoreBlueprints/Items/WeaponAttachments/PrimalItemWeaponAttachment_Silencer.PrimalItemWeaponAttachment_Silencer_C
+    Hemerocalis Seeds -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemConsumableFlowers01.PrimalItemConsumableFlowers01_C
+    Aconitum Seeds -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemConsumableFlowers02.PrimalItemConsumableFlowers02_C
+    Leucanthemum Seeds -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemConsumableFlowers03.PrimalItemConsumableFlowers03_C
+    Papaver Seeds -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemConsumableFlowers04.PrimalItemConsumableFlowers04_C
+    Snake Plant Seeds -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemConsumableSnakePlant.PrimalItemConsumableSnakePlant_C
+    Analog Clock -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_AnalogClock.PrimalItemStructure_AnalogClock_C
+    Armor Stand -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_ArmorStand.PrimalItemStructure_ArmorStand_C
+    Brick Half Paver -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_BrickHalfPaver.PrimalItemStructure_BrickHalfPaver_C
+    Brick Paver -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_BrickPaver.PrimalItemStructure_BrickPaver_C
+    Curtains -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_Curtains.PrimalItemStructure_Curtains_C
+    Decor Lamp -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_DecorLamp.PrimalItemStructure_DecorLamp_C 
+    Digital Clock -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_DigitalClock.PrimalItemStructure_DigitalClock_C
+    Decor Chair -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_Furniture_DecorChair.PrimalItemStructure_Furniture_DecorChair_C
+    Decor Table -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_Furniture_DecorTable.PrimalItemStructure_Furniture_DecorTable_C
+    Elegant Bench -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_Furniture_ElegantBench.PrimalItemStructure_Furniture_ElegantBench_C
+    Garden Gnome -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_Gnome.PrimalItemStructure_Gnome_C
+    Gravel Half Paver -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_GravelHalfPaver.PrimalItemStructure_GravelHalfPaver_C
+    Gravel Paver -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_GravelPaver.PrimalItemStructure_GravelPaver_C 
+    Large Weapon Wall Mount -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_LargeWeaponWallMount.PrimalItemStructure_LargeWeaponWallMount_C
+    Marble Half Paver -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_MarbleHalfPaver.PrimalItemStructure_MarbleHalfPaver_C
+    Marble Paver -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_MarblePaver.PrimalItemStructure_MarblePaver_C
+    Rock Half Paver -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_RockHalfPaver.PrimalItemStructure_RockHalfPaver_C
+    Rock Paver -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_RockPaver.PrimalItemStructure_RockPaver_C
+    Round Crop Plot -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_RoundCropPlotDecor.PrimalItemStructure_RoundCropPlotDecor_C
+    Rectangle Wool Rug -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_Rug_Rect_wool.PrimalItemStructure_Rug_Rect_wool_C
+    Rectangle Woven Rug -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_Rug_Rect_woven.PrimalItemStructure_Rug_Rect_woven_C
+    Round Wool Rug -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_Rug_round_wool.PrimalItemStructure_Rug_round_wool_C
+    Round Woven Rug -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_Rug_round_woven.PrimalItemStructure_Rug_round_woven_C
+    Bear Rug -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_SkinRug_Bear.PrimalItemStructure_SkinRug_Bear_C
+    Bigfoot Rug -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_SkinRug_Bigfoot.PrimalItemStructure_SkinRug_Bigfoot_C
+    Titanboa Rug -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_SkinRug_Boa.PrimalItemStructure_SkinRug_Boa_C
+    Direwolf Rug -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_SkinRug_Direwolf.PrimalItemStructure_SkinRug_Direwolf_C
+    Dodo Rug -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_SkinRug_Dodo.PrimalItemStructure_SkinRug_Dodo_C
+    Sabertooth Rug -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_SkinRug_Saber.PrimalItemStructure_SkinRug_Saber_C
+    Square Crop Plot -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_SquareCropPlotDecor.PrimalItemStructure_SquareCropPlotDecor_C
+    Anky Statue -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_Statue_Anky.PrimalItemStructure_Statue_Anky_C
+    Carno Statue -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_Statue_Carno.PrimalItemStructure_Statue_Carno_C
+    Equus Statue -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_Statue_Equus.PrimalItemStructure_Statue_Equus_C
+    Giga Statue -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_Statue_Giga.PrimalItemStructure_Statue_Giga_C
+    Kairuku Statue -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_Statue_Kairuku.PrimalItemStructure_Statue_Kairuku_C
+    Pteranodon Statue -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_Statue_Ptero.PrimalItemStructure_Statue_Ptero_C 
+    Rex Statue -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_Statue_Rex.PrimalItemStructure_Statue_Rex_C
+    Spino Statue -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_Statue_Spino.PrimalItemStructure_Statue_Spino_C
+    Stego Statue -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_Statue_Stego.PrimalItemStructure_Statue_Stego_C
+    Tapejara Statue -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_Statue_Tapejara.PrimalItemStructure_Statue_Tapejara_C
+    Tuso Statue -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_Statue_Tuso.PrimalItemStructure_Statue_Tuso_C
+    Storage Chest -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_StorageChest.PrimalItemStructure_StorageChest_C
+    Trellis Arch -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_TrellisArch.PrimalItemStructure_TrellisArch_C 
+    Trillis Fence -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_TrellisFence.PrimalItemStructure_TrellisFence_C
+    CeramiCVase -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_Vase_ceramic.PrimalItemStructure_Vase_ceramic_C
+    Glass Vase -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_Vase_glass.PrimalItemStructure_Vase_glass_C
+    Wall Lamp -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_WallLamp.PrimalItemStructure_WallLamp_C
+    Water Fountain -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_WaterFountain.PrimalItemStructure_WaterFountain_C
+    Weapon Wall Mount -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_WeaponWallMount.PrimalItemStructure_WeaponWallMount_C
+    Stone Stairs -    
+	/Game/PrimalEarth/CoreBlueprints/Premium/PrimalItemStructure_StoneStairsDecor.PrimalItemStructure_StoneStairsDecor_C
+    SinglePlayer Transfer Ticket -    
+	/Game/Mobile/PrimalItem_SPTransferTicket.PrimalItem_SPTransferTicket_C
+    Ascendent Transfer Ticket -    
+	/Game/Mobile/PrimalItem_TransferTicket_Ascension.PrimalItem_TransferTicket_Ascension_C
+    Base Transfer Ticket -    
+	/Game/Mobile/PrimalItem_TransferTicket_Base.PrimalItem_TransferTicket_Base_C
+    Free Transfer Ticket -    
+	/Game/Mobile/PrimalItem_TransferTicket_Free.PrimalItem_TransferTicket_Free_C
+    Transfer Ticket -    
+	/Game/Mobile/PrimalItem_TransferTicket_Purchased.PrimalItem_TransferTicket_Purchased_C
+    Boss Note -    
+	/Game/Mobile/Dungeon/Bossiers/PrimalItem_BossiersBase.PrimalItem_BossiersBase_C
+    Noctis Note -    
+	/Game/Mobile/Dungeon/Bossiers/PrimalItem_Boss_Anticorn.PrimalItem_Boss_Anticorn_C
+    Argentustus Note -    
+	/Game/Mobile/Dungeon/Bossiers/PrimalItem_Boss_Argentavis.PrimalItem_Boss_Argentavis_C
+    Broodmother Note -    
+	/Game/Mobile/Dungeon/Bossiers/PrimalItem_Boss_Broodmother.PrimalItem_Boss_Broodmother_C
+    Chalico Note -    
+	/Game/Mobile/Dungeon/Bossiers/PrimalItem_Boss_Chalico.PrimalItem_Boss_Chalico_C
+    Jellyfish Note -    
+	/Game/Mobile/Dungeon/Bossiers/PrimalItem_Boss_Cnidaria.PrimalItem_Boss_Cnidaria_C
+    Dodo Note -    
+	/Game/Mobile/Dungeon/Bossiers/PrimalItem_Boss_Dodo.PrimalItem_Boss_Dodo_C
+    DoediCNote -    
+	/Game/Mobile/Dungeon/Bossiers/PrimalItem_Boss_Doedicurus.PrimalItem_Boss_Doedicurus_C
+    Gulga Note -    
+	/Game/Mobile/Dungeon/Bossiers/PrimalItem_Boss_DungBeetle.PrimalItem_Boss_DungBeetle_C
+    Gorilla Note -    
+	/Game/Mobile/Dungeon/Bossiers/PrimalItem_Boss_Gorilla.PrimalItem_Boss_Gorilla_C
+    Beelz Note -    
+	/Game/Mobile/Dungeon/Bossiers/PrimalItem_Boss_Toad.PrimalItem_Boss_Toad_C 
+    Dungeon Key -    
+	/Game/Mobile/Dungeon/Ruins/PrimalItem_InsideDungeonKey.PrimalItem_InsideDungeonKey_C
+    Eerie Pistol -    
+	/Game/Mobile/Pursuits/Caves/TributeRewards/PrimalItem_WeaponSuperGun.PrimalItem_WeaponSuperGun_C
+    Trophy Base -    
+	/Game/Mobile/Pursuits/Hunts/ProHuntTrophies/PrimalItem_HuntTrophyBase.PrimalItem_HuntTrophyBase_C
+    Trophy Carno -    
+	/Game/Mobile/Pursuits/Hunts/ProHuntTrophies/PrimalItem_HuntTrophy_Carno.PrimalItem_HuntTrophy_Carno_C
+    Trophy Dodo -    
+	/Game/Mobile/Pursuits/Hunts/ProHuntTrophies/PrimalItem_HuntTrophy_Dodo.PrimalItem_HuntTrophy_Dodo_C
+    Trophy Human Arm -    
+	/Game/Mobile/Pursuits/Hunts/ProHuntTrophies/PrimalItem_HuntTrophy_HumanArm.PrimalItem_HuntTrophy_HumanArm_C
+    Trophy Human Head -    
+	/Game/Mobile/Pursuits/Hunts/ProHuntTrophies/PrimalItem_HuntTrophy_HumanHead.PrimalItem_HuntTrophy_HumanHead_C 
+    Trophy Human Leg -    
+	/Game/Mobile/Pursuits/Hunts/ProHuntTrophies/PrimalItem_HuntTrophy_HumanLeg.PrimalItem_HuntTrophy_HumanLeg_C
+    Trophy Mammoth -    
+	/Game/Mobile/Pursuits/Hunts/ProHuntTrophies/PrimalItem_HuntTrophy_Mammoth.PrimalItem_HuntTrophy_Mammoth_C
+    Trophy Megalodon -    
+	/Game/Mobile/Pursuits/Hunts/ProHuntTrophies/PrimalItem_HuntTrophy_Megalodon.PrimalItem_HuntTrophy_Megalodon_C
+    ImplantGraft Bark -    
+	/Game/Mobile/SkinGrafts/PrimalItem_ImplantGraft_Bark.PrimalItem_ImplantGraft_Bark_C
+    ImplantGraft Base -    
+	/Game/Mobile/SkinGrafts/PrimalItem_ImplantGraft_Base.PrimalItem_ImplantGraft_Base_C
+    ImplantGraft Camo -    
+	/Game/Mobile/SkinGrafts/PrimalItem_ImplantGraft_Camo.PrimalItem_ImplantGraft_Camo_C
+    ImplantGraft Colorbomb -    
+	/Game/Mobile/SkinGrafts/PrimalItem_ImplantGraft_Colorbomb.PrimalItem_ImplantGraft_Colorbomb_C
+    ImplantGraft Eerie -    
+	/Game/Mobile/SkinGrafts/PrimalItem_ImplantGraft_Eerie.PrimalItem_ImplantGraft_Eerie_C
+    ImplantGraft Gold -    
+	/Game/Mobile/SkinGrafts/PrimalItem_ImplantGraft_Gold.PrimalItem_ImplantGraft_Gold_C
+    ImplantGraft Ice -    
+	/Game/Mobile/SkinGrafts/PrimalItem_ImplantGraft_Ice.PrimalItem_ImplantGraft_Ice_C
+    ImplantGraft Lava -    
+	/Game/Mobile/SkinGrafts/PrimalItem_ImplantGraft_Lava.PrimalItem_ImplantGraft_Lava_C
+    ImplantGraft Platinum -    
+	/Game/Mobile/SkinGrafts/PrimalItem_ImplantGraft_Platinum.PrimalItem_ImplantGraft_Platinum_C
+    ImplantGraft Stone -    
+	/Game/Mobile/SkinGrafts/PrimalItem_ImplantGraft_Stone.PrimalItem_ImplantGraft_Stone_C
+    ImplantGraft Warpaint -    
+	/Game/Mobile/SkinGrafts/PrimalItem_ImplantGraft_Warpaint.PrimalItem_ImplantGraft_Warpaint_C
+    ImplantGraft God -    
+	/Game/Mobile/SkinGrafts/PrimalItem_ImplantGraft_Yahweh.PrimalItem_ImplantGraft_Yahweh_C
+    Resource Curing -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResourceGeneric_Curing.PrimalItemResourceGeneric_Curing_C
+    Resource GENERIC-    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResourceGeneric.PrimalItemResourceGeneric_C
+    Resource AmmoniteBile -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_AmmoniteBlood.PrimalItemResource_AmmoniteBlood_C
+    Resource AnglerGel -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_AnglerGel.PrimalItemResource_AnglerGel_C
+    Argentavis Drop -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Argentavis.PrimalItemResource_ApexDrop_Argentavis_C
+    Basilo Drop -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Basilo.PrimalItemResource_ApexDrop_Basilo_C
+    FireWyvern Drop -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_FireWyvern.PrimalItemResource_ApexDrop_FireWyvern_C
+    Megalodon Drop -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Megalodon.PrimalItemResource_ApexDrop_Megalodon_C 
+    Rex Drop -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Rex.PrimalItemResource_ApexDrop_Rex_C
+    Sarco Drop -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Sarco.PrimalItemResource_ApexDrop_Sarco_C
+    Bronto Drop -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Sauro.PrimalItemResource_ApexDrop_Sauro_C
+    Tuso Drop -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Tuso.PrimalItemResource_ApexDrop_Tuso_C
+    Resource Beer -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Beer.PrimalItemResource_Beer_C
+    Resource BlackPearl -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl_C
+    Resource Geopolymer -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Cement.PrimalItemResource_Cement_C 
+    Resource Charcoal -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Charcoal.PrimalItemResource_Charcoal_C
+    Resource Chitin -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Chitin.PrimalItemResource_Chitin_C
+    Resource Chiting/Keratin -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinOrKeratin.PrimalItemResource_ChitinOrKeratin_C
+    Resource Cememnting Paste -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinPaste.PrimalItemResource_ChitinPaste_C
+    Resource Craftable -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Craftable.PrimalItemResource_Craftable_C
+    Resource Crystal -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Crystal.PrimalItemResource_Crystal_C
+    Resource EeryElement -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_EeryElement.PrimalItemResource_EeryElement_C
+    Resource Electronics -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Electronics.PrimalItemResource_Electronics_C
+    Resource Element -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Element.PrimalItemResource_ment_C
+    Resource Fiber -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Fibers.PrimalItemResource_Fibers_C
+    Resource Flint -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Flint.PrimalItemResource_Flint_C
+    Resource Gas -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Gasoline.PrimalItemResource_Gasoline_C
+    Resource Gunpowder -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Gunpowder.PrimalItemResource_Gunpowder_C
+    Resource Hide -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Hide.PrimalItemResource_Hide_C
+    Resource Horn -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Horn.PrimalItemResource_Horn_C
+    Resource Keratin -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Keratin.PrimalItemResource_Keratin_C
+    Resource LeechBlood -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_LeechBlood.PrimalItemResource_LeechBlood_C
+    Resource Metal -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Metal.PrimalItemResource_Metal_C
+    Resource MetalIngot -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_MetalIngot.PrimalItemResource_MetalIngot_C
+    Resource Obsidian -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Obsidian.PrimalItemResource_Obsidian_C
+    Resource Oil -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Oil.PrimalItemResource_Oil_C
+    Resource Pelt -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Pelt.PrimalItemResource_Pelt_C
+    Resource Polymer -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer.PrimalItemResource_Polymer_C 
+    Resource OrganicPolymer -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic_C
+    Resource RareFlower -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_RareFlower.PrimalItemResource_RareFlower_C
+    Resource RareMushroom -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_RareMushroom.PrimalItemResource_RareMushroom_C
+    Resource Sap -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Sap.PrimalItemResource_Sap_C
+    Resource SilicaPearls -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon_C
+    Resource Sparkpowder -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Sparkpowder.PrimalItemResource_Sparkpowder_C
+    Resource Stone -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Stone.PrimalItemResource_Stone_C 
+    Resource AbsorbantSubstrate -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_SubstrateAbsorbent.PrimalItemResource_SubstrateAbsorbent_C
+    Resource Thatch -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Thatch.PrimalItemResource_Thatch_C
+    Resource Wood -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wood.PrimalItemResource_Wood_C
+    Resource DodoFeather -    
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItem_DodoFeather.PrimalItem_DodoFeather_C
+    Advanced Bullet -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_AdvancedBullet.PrimalItemAmmo_AdvancedBullet_C
+    Advanced Rifle Bullet -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_AdvancedRifleBullet.PrimalItemAmmo_AdvancedRifleBullet_C
+    Advanced Sniper Bullet -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_AdvancedSniperBullet.PrimalItemAmmo_AdvancedSniperBullet_C
+    Pheramone Dart -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_AggroTranqDart.PrimalItemAmmo_AggroTranqDart_C
+    Arrow GENERIC-    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_ArrowBase.PrimalItemAmmo_ArrowBase_C
+    Stone Arrow -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_ArrowStone.PrimalItemAmmo_ArrowStone_C
+    Toxicant Arrow -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_ArrowToxin.PrimalItemAmmo_ArrowToxin_C
+    Tranq Arrow -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_ArrowTranq.PrimalItemAmmo_ArrowTranq_C
+    Ballista Arrow -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_BallistaArrow.PrimalItemAmmo_BallistaArrow_C
+    Ammo GENERIC-    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_Base.PrimalItemAmmo_Base_C
+    Boulder -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_Boulder.PrimalItemAmmo_Boulder_C
+    CannonBall -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_CannonBall.PrimalItemAmmo_CannonBall_C
+    Chain Bola -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_ChainBola.PrimalItemAmmo_ChainBola_C
+    Metal Arrow -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_CompoundBowArrow.PrimalItemAmmo_CompoundBowArrow_C
+    Dodo Arrow -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_DodoArrow.PrimalItemAmmo_DodoArrow_C
+    Grappling Hook -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_GrapplingHook.PrimalItemAmmo_GrapplingHook_C
+    Tox Dart -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_RefinedTranqDart.PrimalItemAmmo_RefinedTranqDart_C
+    Rocket -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_Rocket.PrimalItemAmmo_Rocket_C
+    Simple Bullet -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_SimpleBullet.PrimalItemAmmo_SimpleBullet_C 
+    Simple Rifle Bullet -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_SimpleRifleBullet.PrimalItemAmmo_SimpleRifleBullet_C
+    Shotgun Bullet -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_SimpleShotgunBullet.PrimalItemAmmo_SimpleShotgunBullet_C
+    Tranq Dart -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_TranqDart.PrimalItemAmmo_TranqDart_C
+    Weapon GENERIC-    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemWeaponGeneric.PrimalItemWeaponGeneric_C
+    Gas Grenade -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_GasGrenade.PrimalItem_GasGrenade_C
+    Poison Grenade -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_PoisonGrenade.PrimalItem_PoisonGrenade_C
+    Tek Grenade -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_TekGrenade.PrimalItem_TekGrenade_C 
+    Tek Rifle -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_TekRifle.PrimalItem_TekRifle_C
+    Alarm Trap -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponAlarmTrap.PrimalItem_WeaponAlarmTrap_C
+    Bola -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponBola.PrimalItem_WeaponBola_C
+    Bow -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponBow.PrimalItem_WeaponBow_C
+    C4 Detonator -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponC4.PrimalItem_WeaponC4_C
+    Compound Bow -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponCompoundBow.PrimalItem_WeaponCompoundBow_C
+    Crossbow -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponCrossbow.PrimalItem_WeaponCrossbow_C
+    Crowbar -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponCrowbar.PrimalItem_WeaponCrowbar_C
+    Cutlass -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponCutlass.PrimalItem_WeaponCutlass_C
+    Fishing Rod -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponFishingRod.PrimalItem_WeaponFishingRod_C
+    Flare Gun -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponFlareGun.PrimalItem_WeaponFlareGun_C
+    Grenade -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponGrenade.PrimalItem_WeaponGrenade_C
+    Handcuffs -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponHandcuffs.PrimalItem_WeaponHandcuffs_C
+    Simple Pistol -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponGun.PrimalItem_WeaponGun_C
+    Iron Skillet -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponIronSkillet.PrimalItem_WeaponIronSkillet_C
+    Lasso -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponLasso.PrimalItem_WeaponLasso_C
+    Fabricated Pistol -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedPistol.PrimalItem_WeaponMachinedPistol_C
+    Fabricated Shotgun -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedShotgun.PrimalItem_WeaponMachinedShotgun_C
+    Facricated Sniper -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedSniper.PrimalItem_WeaponMachinedSniper_C
+    Metal Hatchet -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMetalHatchet.PrimalItem_WeaponMetalHatchet_C
+    Metal Pickaxe -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMetalPick.PrimalItem_WeaponMetalPick_C
+    Longneck Rifle -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponOneShotRifle.PrimalItem_WeaponOneShotRifle_C
+    Paintbrush -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponPaintbrush.PrimalItem_WeaponPaintbrush_C 
+    Pike -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponPike.PrimalItem_WeaponPike_C
+    NarcotiCTripwire -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponPoisonTrap.PrimalItem_WeaponPoisonTrap_C
+    ElectriCProd -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponProd.PrimalItem_WeaponProd_C
+    Assult Rifle -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponRifle.PrimalItem_WeaponRifle_C
+    Launcher -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponRocketLauncher.PrimalItem_WeaponRocketLauncher_C
+    Shotgun -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponShotgun.PrimalItem_WeaponShotgun_C
+    Sickle -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponSickle.PrimalItem_WeaponSickle_C 
+    Slingshot -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponSlingshot.PrimalItem_WeaponSlingshot_C
+    Spear -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponSpear.PrimalItem_WeaponSpear_C
+    Spray Paint -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponSprayPaint.PrimalItem_WeaponSprayPaint_C
+    Club -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponStoneClub.PrimalItem_WeaponStoneClub_C
+    Stone Hatchet -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponStoneHatchet.PrimalItem_WeaponStoneHatchet_C
+    Stone Pickaxe -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponStonePick.PrimalItem_WeaponStonePick_C
+    Sword -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponSword.PrimalItem_WeaponSword_C
+    Torch -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponTorch.PrimalItem_WeaponTorch_C
+    Transponder -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponTransGPS.PrimalItem_WeaponTransGPS_C
+    IED -    
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponTripwireC4.PrimalItem_WeaponTripwireC4_C
+    Achatina Paste -    
+	/Game/PrimalEarth/Dinos/Achatina/PrimalItemResource_SnailPaste.PrimalItemResource_SnailPaste_C
+    Tuso Oil -    
+	/Game/PrimalEarth/Dinos/Tusoteuthis/PrimalItemResource_SquidOil.PrimalItemResource_SquidOil_C
+    Raft -    
+	/Game/PrimalEarth/Items/Raft/PrimalItemRaft.PrimalItemRaft_C
+    Beehive -    
+	/Game/PrimalEarth/Structures/Beehive/PrimalItemStructure_BeeHive.PrimalItemStructure_BeeHive_C
+    Alarm Tower -    
+	/Game/PrimalEarth/Structures/Premium/AlarmBell/PrimalItemStructure_AlarmTower.PrimalItemStructure_AlarmTower_C
+    Warning Bell -    
+	/Game/PrimalEarth/Structures/Premium/AlarmBell/PrimalItemStructure_WarningBell.PrimalItemStructure_WarningBell_C
+    Stationery -    
+	/Game/PrimalEarth/Structures/Premium/Mailbox/PrimalItem_Stationery.PrimalItem_Stationery_C
+    C4 Ammo -    
+	/Game/PrimalEarth/Test/PrimalItemC4Ammo.PrimalItemC4Ammo_C
+    Berry Soup -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_BerrySoup.PrimalItemConsumable_BerrySoup_C
+    Water Container -    
+	/Game/PrimalEarth/Test/PrimalItemConsumableEatable_WaterContainer.PrimalItemConsumableEatable_WaterContainer_C
+    Allo Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Allo.PrimalItemConsumable_Egg_Allo_C
+    Allo Fertilized Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Allo_Fertilized.PrimalItemConsumable_Egg_Allo_Fertilized_C
+    Ankylo Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Ankylo.PrimalItemConsumable_Egg_Ankylo_C 
+    Ankylo Fertilized Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Ankylo_Fertilized.PrimalItemConsumable_Egg_Ankylo_Fertilized_C
+    Archaeoptryx Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Archa.PrimalItemConsumable_Egg_Archa_C
+    Archaeoptryx Fertilized Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Archa_Fertilized.PrimalItemConsumable_Egg_Archa_Fertilized_C
+    Argentavis Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Argent.PrimalItemConsumable_Egg_Argent_C
+    Argentavis Fertilized Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Argent_Fertilized.PrimalItemConsumable_Egg_Argent_Fertilized_C
+    Arthropluera Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Arthro.PrimalItemConsumable_Egg_Arthro_C
+    Baryonyx Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Baryonyx.PrimalItemConsumable_Egg_Baryonyx_C 
+    Baryonyx Fertilized Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Baryonyx_Fertilized.PrimalItemConsumable_Egg_Baryonyx_Fertilized_C
+    Titanboa Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Boa.PrimalItemConsumable_Egg_Boa_C
+    Bronto Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Bronto.PrimalItemConsumable_Egg_Bronto_C
+    Bronto Fertilized Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Bronto_Fertilized.PrimalItemConsumable_Egg_Bronto_Fertilized_C
+    Carno Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Carno.PrimalItemConsumable_Egg_Carno_C
+    Carno Fertilized Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Carno_Fertilized.PrimalItemConsumable_Egg_Carno_Fertilized_C
+    Compy Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Compy.PrimalItemConsumable_Egg_Compy_C
+    Compy Fertilized Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Compy_Fertilized.PrimalItemConsumable_Egg_Compy_Fertilized_C
+    Dilo Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Dilo.PrimalItemConsumable_Egg_Dilo_C
+    Dilo Fertilized Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Dilo_Fertilized.PrimalItemConsumable_Egg_Dilo_Fertilized_C
+    Dimetrodon Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Dimetrodon.PrimalItemConsumable_Egg_Dimetrodon_C
+    Dimetrodon Fertilized Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Dimetrodon_Fertilized.PrimalItemConsumable_Egg_Dimetrodon_Fertilized_C
+    Dimorph Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Dimorph.PrimalItemConsumable_Egg_Dimorph_C
+    Dimorph Fertilized Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Dimorph_Fertilized.PrimalItemConsumable_Egg_Dimorph_Fertilized_C
+    Diplodocus Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Diplo.PrimalItemConsumable_Egg_Diplo_C
+    Diplocalus Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Diplocaulus.PrimalItemConsumable_Egg_Diplocaulus_C
+    Diplocalus Fertilized Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Diplocaulus_Fertilized.PrimalItemConsumable_Egg_Diplocaulus_Fertilized_C
+    Diplodocus Fertilized Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Diplo_Fertilized.PrimalItemConsumable_Egg_Diplo_Fertilized_C
+    Dodo Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Dodo.PrimalItemConsumable_Egg_Dodo_C
+    Dodo Fertilized Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Dodo_Fertilized.PrimalItemConsumable_Egg_Dodo_Fertilized_C
+    Gallimimus Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Galli.PrimalItemConsumable_Egg_Galli_C
+    Gallimimus Fertilized Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Galli_Fertilized.PrimalItemConsumable_Egg_Galli_Fertilized_C
+    otosaurus Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_t.PrimalItemConsumable_Egg_t_C 
+    Giga Fertilized Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_t_Fertilized.PrimalItemConsumable_Egg_t_Fertilized_C
+    Griffin Fertilized Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Griffin_Fertilized.PrimalItemConsumable_Egg_Griffin_Fertilized_C
+    Iguanadon Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Iguanodon.PrimalItemConsumable_Egg_Iguanodon_C
+    Iguanadon Fertilized Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Iguanodon_Fertilized.PrimalItemConsumable_Egg_Iguanodon_Fertilized_C
+    Kairuku Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Kairuku.PrimalItemConsumable_Egg_Kairuku_C
+    Kairuku Fertilized Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Kairuku_Fertilized.PrimalItemConsumable_Egg_Kairuku_Fertilized_C
+    Kaprosuchus Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Kaprosuchus.PrimalItemConsumable_Egg_Kaprosuchus_C 
+    Kapro Fertilized Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Kaprosuchus_Fertilized.PrimalItemConsumable_Egg_Kaprosuchus_Fertilized_C
+    Lystro Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Lystro.PrimalItemConsumable_Egg_Lystro_C
+    Lystro Fertilized Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Lystro_Fertilized.PrimalItemConsumable_Egg_Lystro_Fertilized_C
+    Megalosaurus Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Megalosaurus.PrimalItemConsumable_Egg_Megalosaurus_C
+    Megalosaurus Fertilized Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Megalosaurus_Fertilized.PrimalItemConsumable_Egg_Megalosaurus_Fertilized_C
+    Moschops Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Moschops.PrimalItemConsumable_Egg_Moschops_C
+    Moschops Fertilized Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Moschops_Fertilized.PrimalItemConsumable_Egg_Moschops_Fertilized_C
+    Oviraptor Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Oviraptor.PrimalItemConsumable_Egg_Oviraptor_C
+    Oviraptor Fertilized Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Oviraptor_Fertilized.PrimalItemConsumable_Egg_Oviraptor_Fertilized_C
+    Pachy Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Pachy.PrimalItemConsumable_Egg_Pachy_C
+    Pachyrhino Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Pachyrhino.PrimalItemConsumable_Egg_Pachyrhino_C
+    Pachyrhino Fertilized Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_PachyRhino_Fertilized.PrimalItemConsumable_Egg_PachyRhino_Fertilized_C
+    Pachy Fertilized Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Pachy_Fertilized.PrimalItemConsumable_Egg_Pachy_Fertilized_C
+    Parasaur Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Para.PrimalItemConsumable_Egg_Para_C
+    Parasaur Fertilized Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Para_Fertilized.PrimalItemConsumable_Egg_Para_Fertilized_C
+    Pegomastax Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Pegomastax.PrimalItemConsumable_Egg_Pegomastax_C
+    Pegomastax Fertilized Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Pegomastax_Fertilized.PrimalItemConsumable_Egg_Pegomastax_Fertilized_C
+    Pelagornis Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Pela.PrimalItemConsumable_Egg_Pela_C
+    Pelagornis Fertilized Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Pela_Fertilized.PrimalItemConsumable_Egg_Pela_Fertilized_C
+    Pteranodon Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Ptero.PrimalItemConsumable_Egg_Ptero_C
+    Pteranodon Fertilized Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Ptero_Fertilized.PrimalItemConsumable_Egg_Ptero_Fertilized_C
+    Quetzal Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Quetz.PrimalItemConsumable_Egg_Quetz_C
+    Quetz Fertilized Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Quetz_Fertilized.PrimalItemConsumable_Egg_Quetz_Fertilized_C 
+    Raptor Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Raptor.PrimalItemConsumable_Egg_Raptor_C
+    Raptor Fertilized Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Raptor_Fertilized.PrimalItemConsumable_Egg_Raptor_Fertilized_C
+    Rex Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Rex.PrimalItemConsumable_Egg_Rex_C
+    Rex Fertilized Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Rex_Fertilized.PrimalItemConsumable_Egg_Rex_Fertilized_C
+    Sarco Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Sarco.PrimalItemConsumable_Egg_Sarco_C
+    Sarco Fertilized Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Sarco_Fertilized.PrimalItemConsumable_Egg_Sarco_Fertilized_C
+    Scorpian Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Scorpion.PrimalItemConsumable_Egg_Scorpion_C 
+    Araneo Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Spider.PrimalItemConsumable_Egg_Spider_C
+    Spino Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Spino.PrimalItemConsumable_Egg_Spino_C
+    Spino Fertilized Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Spino_Fertilized.PrimalItemConsumable_Egg_Spino_Fertilized_C
+    Stego Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Stego.PrimalItemConsumable_Egg_Stego_C
+    Stego Fertilized Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Stego_Fertilized.PrimalItemConsumable_Egg_Stego_Fertilized_C
+    Tapejara Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Tapejara.PrimalItemConsumable_Egg_Tapejara_C
+    Tapejara Fertilized Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Tapejara_Fertilized.PrimalItemConsumable_Egg_Tapejara_Fertilized_C
+    Terrorbird Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_TerrorBird.PrimalItemConsumable_Egg_Terrorbird_C
+    Terrorbird Fertilized Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_TerrorBird_Fertilized.PrimalItemConsumable_Egg_Terrorbird_Fertilized_C
+    Therizino Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Therizino.PrimalItemConsumable_Egg_Therizino_C
+    Therizino Fertilized Egg -       
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Therizino_Fertilized.PrimalItemConsumable_Egg_Therizino_Fertilized_C
+    Trike Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Trike.PrimalItemConsumable_Egg_Trike_C
+    Trike Fertilized Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Trike_Fertilized.PrimalItemConsumable_Egg_Trike_Fertilized_C
+    Troodon Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Troodon.PrimalItemConsumable_Egg_Troodon_C
+    Troodon Fertilized Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Troodon_Fertilized.PrimalItemConsumable_Egg_Troodon_Fertilized_C
+    Turtle Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Turtle.PrimalItemConsumable_Egg_Turtle_C
+    Turtle Fertilized Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Turtle_Fertilized.PrimalItemConsumable_Egg_Turtle_Fertilized_C
+    Wyvern Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Wyvern.PrimalItemConsumable_Egg_Wyvern_C
+    Wyvern Fertilized Egg -       
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Wyvern_Fertilized.PrimalItemConsumable_Egg_Wyvern_Fertilized_C
+    Fire Wyvern Fertilized Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Wyvern_Fertilized_Fire.PrimalItemConsumable_Egg_Wyvern_Fertilized_Fire_C
+    BUFF Feast -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Feast.PrimalItemConsumable_Feast_C
+    BUFF IntenseFocus -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_IntenseFocus.PrimalItemConsumable_IntenseFocus_C
+    BUFF LegDay -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_LegDay.PrimalItemConsumable_LegDay_C 
+    Potent Dust -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_PotentDust.PrimalItemConsumable_PotentDust_C
+    BUFF ThickSkin -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_ThickSkin.PrimalItemConsumable_ThickSkin_C
+    Angler Egg -        
+	/Game/PrimalEarth/Test/PrimalItemConsumable_UnderwaterEgg_Angler.PrimalItemConsumable_UnderwaterEgg_Angler_C
+    Diplocalus UW Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_UnderwaterEgg_Diplocaulus.PrimalItemConsumable_UnderwaterEgg_Diplocaulus_C
+    Eel Egg -  
+	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_UnderwaterEgg_Eel.PrimalItemConsumable_UnderwaterEgg_Eel_C
+    Beelz Egg -       
+	/Game/PrimalEarth/Test/PrimalItemConsumable_UnderwaterEgg_Toad.PrimalItemConsumable_UnderwaterEgg_Toad_C
+    Tuso Egg -        
+	/Game/PrimalEarth/Test/PrimalItemConsumable_UnderwaterEgg_Tuso.PrimalItemConsumable_UnderwaterEgg_Tuso_C
+    Costume GENERIC-        
+	/Game/PrimalEarth/Test/PrimalItemCostumeGeneric.PrimalItemCostumeGeneric_C
+    Helmet GENERIC-        
+	/Game/PrimalEarth/Test/PrimalItemHelmet2.PrimalItemHelmet2_C
+    Skin GENERIC-        
+	/Game/PrimalEarth/Test/PrimalItemSkinGeneric.PrimalItemSkinGeneric_C
+    Trophy GENERIC-       
+	/Game/PrimalEarth/Test/PrimalItemSkinGeneric_Trophy.PrimalItemSkinGeneric_Trophy_C
+    Transponder Node -       
+	/Game/PrimalEarth/Test/PrimalItemTransGPSAmmo.PrimalItemTransGPSAmmo_C
+    Blood Syringe -       
+	/Game/PrimalEarth/Test/PrimalItem_BloodExtractor.PrimalItem_BloodExtractor_C
+    Map -        
+	/Game/PrimalEarth/Test/PrimalItem_WeaponCompass.PrimalItem_WeaponCompass_C
+    GPS -        
+	/Game/PrimalEarth/Test/PrimalItem_WeaponGPS.PrimalItem_WeaponGPS_C
+    Mangifying Glass -        
+	/Game/PrimalEarth/Test/PrimalItem_WeaponMagnifyingGlass.PrimalItem_WeaponMagnifyingGlass_C
+    Spyglass -        
+	/Game/PrimalEarth/Test/PrimalItem_WeaponSpyglass.PrimalItem_WeaponSpyglass_C
+    Therizino Drop        
+	/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Theriz.PrimalItemResource_ApexDrop_Theriz_C 
+    Parachute       
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumableBuff_Parachute.PrimalItemConsumableBuff_Parachute_C 
+ImplantGraft Bark -  
+	/Game/Mobile/SkinGrafts/PrimalItem_ImplantGraft_Bark.PrimalItem_ImplantGraft_Bark_C
+ImplantGraft Base -  
+	/Game/Mobile/SkinGrafts/PrimalItem_ImplantGraft_Base.PrimalItem_ImplantGraft_Base_C
+ImplantGraft Camo - 
+	/Game/Mobile/SkinGrafts/PrimalItem_ImplantGraft_Camo.PrimalItem_ImplantGraft_Camo_C
+ImplantGraft Colorbomb - 
+	/Game/Mobile/SkinGrafts/PrimalItem_ImplantGraft_Colorbomb.PrimalItem_ImplantGraft_Colorbomb_C
+ImplantGraft Eerie - 
+	/Game/Mobile/SkinGrafts/PrimalItem_ImplantGraft_Eerie.PrimalItem_ImplantGraft_Eerie_C
+ImplantGraft Gold -
+	/Game/Mobile/SkinGrafts/PrimalItem_ImplantGraft_Gold.PrimalItem_ImplantGraft_Gold_C
+ImplantGraft Ice - 
+	/Game/Mobile/SkinGrafts/PrimalItem_ImplantGraft_Ice.PrimalItem_ImplantGraft_Ice_C
+ImplantGraft Lava -  
+	/Game/Mobile/SkinGrafts/PrimalItem_ImplantGraft_Lava.PrimalItem_ImplantGraft_Lava_C
+ImplantGraft Platinum -  
+	/Game/Mobile/SkinGrafts/PrimalItem_ImplantGraft_Platinum.PrimalItem_ImplantGraft_Platinum_C
+ImplantGraft Stone -  
+	/Game/Mobile/SkinGrafts/PrimalItem_ImplantGraft_Stone.PrimalItem_ImplantGraft_Stone_C
+ImplantGraft Warpaint - 
+	/Game/Mobile/SkinGrafts/PrimalItem_ImplantGraft_Warpaint.PrimalItem_ImplantGraft_Warpaint_C
+ImplantGraft God - 
+	/Game/Mobile/SkinGrafts/PrimalItem_ImplantGraft_Yahweh.PrimalItem_ImplantGraft_Yahweh_C
+ TekBoots -  
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/TEK/PrimalItemArmor_TekBoots.PrimalItemArmor_TekBoots_C
+ TekShirt -   
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/TEK/PrimalItemArmor_TekShirt.PrimalItemArmor_TekShirt_C
+ TekGloves -   
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/TEK/PrimalItemArmor_TekGloves.PrimalItemArmor_TekGloves_C
+ TekHelmet -  
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/TEK/PrimalItemArmor_TekHelmet.PrimalItemArmor_TekHelmet_C
+ TekPants -  
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/TEK/PrimalItemArmor_TekPants.PrimalItemArmor_TekPants_C
+ TekShield - 
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Shields/PrimalItemArmor_ShieldTek.PrimalItemArmor_ShieldTek_C
+	Tek Gun -  
+	/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_TekRifle.PrimalItem_TekRifle_C
+	Super Teat Meat -  
+	/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SuperTestMeat.PrimalItemConsumable_SuperTestMeat_C
+    
