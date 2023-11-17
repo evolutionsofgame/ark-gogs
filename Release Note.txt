@@ -1,3 +1,22 @@
+v21
+- Add
++ Structure option> Unlimited Structure neaby
++ Creature Option> Free Creatures (Replace creature ID from Implant in inventor and revival to get new creature)
+-Improved:
++ No search, No delay time for:
+* Teleport
+* Fly
+* Bright Night (Work with 32 bit)
+* Infinite Ammo
+* Speed Game
+* Advanced day
+* Invunlerable
+* Engrams option
+* Increase Slot Tame
+* Free Gifts
+* Dupe structure (no need place any structure beforce search like old versions)
+- Fix unlimited Amber and can fix negative amber
+
 v20.1
 - Improved search speed for amber shop item changes
 - Added changes to the selling price and number of items received when purchased. Negative values of the selling price may work and may increase post-purchase amber
