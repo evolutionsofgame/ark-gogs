@@ -1,3 +1,9 @@
+v21.1
+- improved time and change better for:
++ Free Creatures
++ Free Items 
+
+
 v21
 - Add
 + Structure option> Unlimited Structure neaby
@@ -6,7 +12,7 @@ v21
 + No search, No delay time for:
 * Teleport
 * Fly
-* Bright Night (Work with 32 bit)
+* Bright Night (no delay only Work with 32 bit)
 * Infinite Ammo
 * Speed Game
 * Advanced day
