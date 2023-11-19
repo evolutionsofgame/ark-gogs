@@ -208,7 +208,7 @@
     Galli Saddle -    
 	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_Gallimimus.PrimalItemArmor_Gallimimus_C 
     Giga Saddle -    
-	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_tSaddle.PrimalItemArmor_tSaddle_C
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_GigantSaddle.PrimalItemArmor_GigantSaddle_C
     Iguanadon Saddle -    
 	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_IguanodonSaddle.PrimalItemArmor_IguanodonSaddle_C
     Kapro Saddle -    
@@ -312,7 +312,7 @@
     Bone Carno Costume -    
 	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemCostume_BoneCarno.PrimalItemCostume_BoneCarno_C
     Bone Giga Costume -    
-	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemCostume_Bonet.PrimalItemCostume_Bonet_C
+	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemCostume_BoneGigant.PrimalItemCostume_BoneGigant_C
     Bone Quetz Costume -    
 	/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemCostume_BoneQuetz.PrimalItemCostume_BoneQuetz_C
     Bone Raptor Costume -    
@@ -1787,10 +1787,10 @@
 	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Galli.PrimalItemConsumable_Egg_Galli_C
     Gallimimus Fertilized Egg -    
 	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Galli_Fertilized.PrimalItemConsumable_Egg_Galli_Fertilized_C
-    otosaurus Egg -    
-	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_t.PrimalItemConsumable_Egg_t_C 
+    Giganotosaurus Egg -    
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Gigant.PrimalItemConsumable_Egg_Gigant_C
     Giga Fertilized Egg -    
-	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_t_Fertilized.PrimalItemConsumable_Egg_t_Fertilized_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Gigant_Fertilized.PrimalItemConsumable_Egg_Gigant_Fertilized_C
     Griffin Fertilized Egg -    
 	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Griffin_Fertilized.PrimalItemConsumable_Egg_Griffin_Fertilized_C
     Iguanadon Egg -    
