@@ -1,3 +1,22 @@
+v22
+- Add: 
+* HEAL ALL
++ Heal player
++ Heal tamed creatures 
++ Heal structures
++ Heal wild creatures  
+* Request Creature > Custom teleport player and Creature (Allow teleport player and creature to same location from save location or coordinates)
+* God Console > Teleport : save location can save unlimited slots and save by name that you can input and selection when go to save
+* Floating build add move foundation on X and Y coordinates
+
+-Improved:
++ no search, no delay time for change:
+* unlimited structures duration
+* unlimited electrict device (add option change to all devices same duration)
+* unlimited structures Height
+* unlimited weight Elevator platform
+* unlimite storage slot (auto change for all storages)
+
 v21.1
 - improved time and change better for:
 + Free Creatures
