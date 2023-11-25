@@ -1,3 +1,17 @@
+v23
+-Add:
+*Teleport structures and custom change location x, y, z
++ Teleport all structures in radius with player
++ Teleport all structures with same height Z
++ Teleport all structures with same max duration
++ Teleport only 1 structure
++ Teleport all structures to save player location
+
+- Improved:
+* no search and no time for:
++ Resize creature
++ Teleport structures
+
 v22
 - Add: 
 * HEAL ALL
