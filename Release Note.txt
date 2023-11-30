@@ -1,3 +1,7 @@
+v23.1 
+- Fix resize dino
+- fix Invunlerable and infinite Ammo in some case
+
 v23
 -Add:
 *Teleport structures and custom change location x, y, z
