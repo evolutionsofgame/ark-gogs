@@ -1818,107 +1818,107 @@
     Moschops Fertilized Egg -    
 	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Moschops_Fertilized.PrimalItemConsumable_Egg_Moschops_Fertilized_C
     Oviraptor Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Oviraptor.PrimalItemConsumable_Egg_Oviraptor_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Oviraptor.PrimalItemConsumable_Egg_Oviraptor_C
     Oviraptor Fertilized Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Oviraptor_Fertilized.PrimalItemConsumable_Egg_Oviraptor_Fertilized_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Oviraptor_Fertilized.PrimalItemConsumable_Egg_Oviraptor_Fertilized_C
     Pachy Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Pachy.PrimalItemConsumable_Egg_Pachy_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Pachy.PrimalItemConsumable_Egg_Pachy_C
     Pachyrhino Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Pachyrhino.PrimalItemConsumable_Egg_Pachyrhino_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Pachyrhino.PrimalItemConsumable_Egg_Pachyrhino_C
     Pachyrhino Fertilized Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_PachyRhino_Fertilized.PrimalItemConsumable_Egg_PachyRhino_Fertilized_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_PachyRhino_Fertilized.PrimalItemConsumable_Egg_PachyRhino_Fertilized_C
     Pachy Fertilized Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Pachy_Fertilized.PrimalItemConsumable_Egg_Pachy_Fertilized_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Pachy_Fertilized.PrimalItemConsumable_Egg_Pachy_Fertilized_C
     Parasaur Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Para.PrimalItemConsumable_Egg_Para_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Para.PrimalItemConsumable_Egg_Para_C
     Parasaur Fertilized Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Para_Fertilized.PrimalItemConsumable_Egg_Para_Fertilized_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Para_Fertilized.PrimalItemConsumable_Egg_Para_Fertilized_C
     Pegomastax Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Pegomastax.PrimalItemConsumable_Egg_Pegomastax_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Pegomastax.PrimalItemConsumable_Egg_Pegomastax_C
     Pegomastax Fertilized Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Pegomastax_Fertilized.PrimalItemConsumable_Egg_Pegomastax_Fertilized_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Pegomastax_Fertilized.PrimalItemConsumable_Egg_Pegomastax_Fertilized_C
     Pelagornis Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Pela.PrimalItemConsumable_Egg_Pela_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Pela.PrimalItemConsumable_Egg_Pela_C
     Pelagornis Fertilized Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Pela_Fertilized.PrimalItemConsumable_Egg_Pela_Fertilized_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Pela_Fertilized.PrimalItemConsumable_Egg_Pela_Fertilized_C
     Pteranodon Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Ptero.PrimalItemConsumable_Egg_Ptero_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Ptero.PrimalItemConsumable_Egg_Ptero_C
     Pteranodon Fertilized Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Ptero_Fertilized.PrimalItemConsumable_Egg_Ptero_Fertilized_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Ptero_Fertilized.PrimalItemConsumable_Egg_Ptero_Fertilized_C
     Quetzal Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Quetz.PrimalItemConsumable_Egg_Quetz_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Quetz.PrimalItemConsumable_Egg_Quetz_C
     Quetz Fertilized Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Quetz_Fertilized.PrimalItemConsumable_Egg_Quetz_Fertilized_C 
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Quetz_Fertilized.PrimalItemConsumable_Egg_Quetz_Fertilized_C 
     Raptor Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Raptor.PrimalItemConsumable_Egg_Raptor_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Raptor.PrimalItemConsumable_Egg_Raptor_C
     Raptor Fertilized Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Raptor_Fertilized.PrimalItemConsumable_Egg_Raptor_Fertilized_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Raptor_Fertilized.PrimalItemConsumable_Egg_Raptor_Fertilized_C
     Rex Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Rex.PrimalItemConsumable_Egg_Rex_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Rex.PrimalItemConsumable_Egg_Rex_C
     Rex Fertilized Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Rex_Fertilized.PrimalItemConsumable_Egg_Rex_Fertilized_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Rex_Fertilized.PrimalItemConsumable_Egg_Rex_Fertilized_C
     Sarco Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Sarco.PrimalItemConsumable_Egg_Sarco_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Sarco.PrimalItemConsumable_Egg_Sarco_C
     Sarco Fertilized Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Sarco_Fertilized.PrimalItemConsumable_Egg_Sarco_Fertilized_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Sarco_Fertilized.PrimalItemConsumable_Egg_Sarco_Fertilized_C
     Scorpian Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Scorpion.PrimalItemConsumable_Egg_Scorpion_C 
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Scorpion.PrimalItemConsumable_Egg_Scorpion_C 
     Araneo Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Spider.PrimalItemConsumable_Egg_Spider_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Spider.PrimalItemConsumable_Egg_Spider_C
     Spino Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Spino.PrimalItemConsumable_Egg_Spino_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Spino.PrimalItemConsumable_Egg_Spino_C
     Spino Fertilized Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Spino_Fertilized.PrimalItemConsumable_Egg_Spino_Fertilized_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Spino_Fertilized.PrimalItemConsumable_Egg_Spino_Fertilized_C
     Stego Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Stego.PrimalItemConsumable_Egg_Stego_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Stego.PrimalItemConsumable_Egg_Stego_C
     Stego Fertilized Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Stego_Fertilized.PrimalItemConsumable_Egg_Stego_Fertilized_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Stego_Fertilized.PrimalItemConsumable_Egg_Stego_Fertilized_C
     Tapejara Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Tapejara.PrimalItemConsumable_Egg_Tapejara_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Tapejara.PrimalItemConsumable_Egg_Tapejara_C
     Tapejara Fertilized Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Tapejara_Fertilized.PrimalItemConsumable_Egg_Tapejara_Fertilized_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Tapejara_Fertilized.PrimalItemConsumable_Egg_Tapejara_Fertilized_C
     Terrorbird Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_TerrorBird.PrimalItemConsumable_Egg_Terrorbird_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_TerrorBird.PrimalItemConsumable_Egg_Terrorbird_C
     Terrorbird Fertilized Egg -    
 	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_TerrorBird_Fertilized.PrimalItemConsumable_Egg_Terrorbird_Fertilized_C
     Therizino Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Therizino.PrimalItemConsumable_Egg_Therizino_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Therizino.PrimalItemConsumable_Egg_Therizino_C
     Therizino Fertilized Egg -       
 	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Therizino_Fertilized.PrimalItemConsumable_Egg_Therizino_Fertilized_C
     Trike Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Trike.PrimalItemConsumable_Egg_Trike_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Trike.PrimalItemConsumable_Egg_Trike_C
     Trike Fertilized Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Trike_Fertilized.PrimalItemConsumable_Egg_Trike_Fertilized_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Trike_Fertilized.PrimalItemConsumable_Egg_Trike_Fertilized_C
     Troodon Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Troodon.PrimalItemConsumable_Egg_Troodon_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Troodon.PrimalItemConsumable_Egg_Troodon_C
     Troodon Fertilized Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Troodon_Fertilized.PrimalItemConsumable_Egg_Troodon_Fertilized_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Troodon_Fertilized.PrimalItemConsumable_Egg_Troodon_Fertilized_C
     Turtle Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Turtle.PrimalItemConsumable_Egg_Turtle_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Turtle.PrimalItemConsumable_Egg_Turtle_C
     Turtle Fertilized Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Turtle_Fertilized.PrimalItemConsumable_Egg_Turtle_Fertilized_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Turtle_Fertilized.PrimalItemConsumable_Egg_Turtle_Fertilized_C
     Wyvern Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Wyvern.PrimalItemConsumable_Egg_Wyvern_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Wyvern.PrimalItemConsumable_Egg_Wyvern_C
     Wyvern Fertilized Egg -       
 	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Wyvern_Fertilized.PrimalItemConsumable_Egg_Wyvern_Fertilized_C
     Fire Wyvern Fertilized Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Wyvern_Fertilized_Fire.PrimalItemConsumable_Egg_Wyvern_Fertilized_Fire_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Wyvern_Fertilized_Fire.PrimalItemConsumable_Egg_Wyvern_Fertilized_Fire_C
     BUFF Feast -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_Feast.PrimalItemConsumable_Feast_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_Feast.PrimalItemConsumable_Feast_C
     BUFF IntenseFocus -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_IntenseFocus.PrimalItemConsumable_IntenseFocus_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_IntenseFocus.PrimalItemConsumable_IntenseFocus_C
     BUFF LegDay -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_LegDay.PrimalItemConsumable_LegDay_C 
+	/Game/PrimalEarth/Test/PrimalItemConsumable_LegDay.PrimalItemConsumable_LegDay_C 
     Potent Dust -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_PotentDust.PrimalItemConsumable_PotentDust_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_PotentDust.PrimalItemConsumable_PotentDust_C
     BUFF ThickSkin -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_ThickSkin.PrimalItemConsumable_ThickSkin_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_ThickSkin.PrimalItemConsumable_ThickSkin_C
     Angler Egg -        
 	/Game/PrimalEarth/Test/PrimalItemConsumable_UnderwaterEgg_Angler.PrimalItemConsumable_UnderwaterEgg_Angler_C
     Diplocalus UW Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_UnderwaterEgg_Diplocaulus.PrimalItemConsumable_UnderwaterEgg_Diplocaulus_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_UnderwaterEgg_Diplocaulus.PrimalItemConsumable_UnderwaterEgg_Diplocaulus_C
     Eel Egg -  
-	/Game/Game/PrimalEarth/Test/PrimalItemConsumable_UnderwaterEgg_Eel.PrimalItemConsumable_UnderwaterEgg_Eel_C
+	/Game/PrimalEarth/Test/PrimalItemConsumable_UnderwaterEgg_Eel.PrimalItemConsumable_UnderwaterEgg_Eel_C
     Beelz Egg -       
 	/Game/PrimalEarth/Test/PrimalItemConsumable_UnderwaterEgg_Toad.PrimalItemConsumable_UnderwaterEgg_Toad_C
     Tuso Egg -        
