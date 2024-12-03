@@ -34,10 +34,14 @@
 	<font size="4" color="#FFFF00"><span style="background-color: #008000">
 	Command structure for Spawn Creatures:</span></font></b></u></p>
 	<p style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
+	<p style="margin-top: 0; margin-bottom: 0"><b>
+	<font size="4" color="#800080"><span style="background-color: #FFFF00">
+	*Method 1: Random level creatures + tamed</span></font></b></p>
+	<p style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
 	<p style="margin-top: 0; margin-bottom: 0"><font color="#800080"><b>ARK</b></font><font color="#008000"><br>
 	Admincheat SpawnActorTamed &quot;Blueprint'</font><b><font color="#FF0000">Creature 
 	ID</font><font color="#008000">'</font></b><font color="#008000">&quot; 
-	10 1000 1000|GMSummon &quot;</font><b><font color="#0000FF">Creature Tag</font></b><font color="#008000">&quot; 540|ForceTame</font></p>
+	10 1000 1000</font></p>
 	<p style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
 	<p style="margin-top: 0; margin-bottom: 0"><font color="#800080"><b>ARK</b>
 	</font><font color="#008000">: any character but must above admincheat</font></p>
@@ -46,14 +50,71 @@
 	ID </b></font><font color="#008000">get from:
 	<a href="https://evolutionsofgame.github.io/ark-gogs/CreaturesID.html">
 	https://evolutionsofgame.github.io/ark-gogs/CreaturesID.html</a></font></p>
-	<p><font color="#0000FF"><b>Creature Tag </b></font><font color="#008000">
-	get in creature id</font></p>
 	<p style="margin-top: 0; margin-bottom: 0"><b><font color="#FF00FF">For 
 	example:</font></b></p>
 	<p style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
 	<p style="margin-top: 0; margin-bottom: 0"><i><font color="#800080"><b>ARK</b></font><font color="#008000"><br>
 	Admincheat SpawnActorTamed &quot;Blueprint'</font></i><span style="color: rgb(255, 0, 0); font-family: Arial, sans-serif; font-size: 13.3333px; font-style: italic; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none; background-color: rgb(220, 230, 241)">/Game/PrimalEarth/Dinos/Gorilla/Gorilla_Character_BP.Gorilla_Character_BP_C</span><i><b><font color="#008000">'</font></b><font color="#008000">&quot; 
-	10 1000 1000|GMSummon &quot;</font></i><span style="color: #0000FF; font-family: Arial, sans-serif; font-size: 13.3333px; font-style: italic; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none; background-color: rgb(220, 230, 241)">Gorilla_Character_BP_C</span><i><font color="#008000">&quot; 540|ForceTame</font></i></div>
+	10 1000 1000</font></i><p style="margin-top: 0; margin-bottom: 0">&nbsp;<p style="margin-top: 0; margin-bottom: 0">
+	<b><font size="4" color="#800080"><span style="background-color: #FFFF00">
+	*Method 2: Custom level creatures + tamed</span></font></b></p>
+	<p style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
+	<p style="margin-top: 0; margin-bottom: 0"><font color="#800080"><b>ARK</b></font><font color="#008000"><br>
+	Admincheat GMSummon </font><font color="#FF0000">CreatureTag</font><font color="#008000"> </font>
+	<font color="#0000FF">levelwild</font></p>
+	<p style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
+	<p style="margin-top: 0; margin-bottom: 0"><font color="#800080"><b>ARK</b>
+	</font><font color="#008000">: any character but must above admincheat</font></p>
+	<p style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
+	<p style="margin-top: 0; margin-bottom: 0"><font color="#FF0000">CreatureTag: </font><font color="#008000">
+	get from Creature 
+	ID example ID<b> <u>/Game/PrimalEarth/Dinos/Argentavis/Boss_Argent_Character_BP.</u></font><u><font color="#800080">Boss_Argent_Character_BP_C</font></u><font color="#008000">, 
+	creature tag : </font> </b><b><font color="#800080">
+	Boss_Argent_Character_BP_C</font></b></p>
+	<p style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
+	<p style="margin-top: 0; margin-bottom: 0"><font color="#0000FF">levelwild: </font><font color="#008000">
+	level of creature when wild. Level after tame or after spawn of this 
+	command, it will bonus 50% level when wild, so if you want get creature 
+	level 540 = </font><font color="#0000FF">360</font><font color="#008000"> + 
+	50% * </font><font color="#0000FF">360</font><font color="#008000">. you 
+	need put levelwild = </font><font color="#0000FF">360</font></p>
+	<p style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
+	<p style="margin-top: 0; margin-bottom: 0"><b><font color="#FF00FF">For 
+	Example: </font></b></p>
+	<p style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
+	<p style="margin-top: 0; margin-bottom: 0"><b><font color="#800080">ARK</font></b><font color="#0000FF"><br>
+	</font><font color="#008000">Admincheat GMSummon</font><font color="#0000FF">
+	</font><font color="#FF0000">Argent_Character_BP_C</font><font color="#0000FF"> 
+	360</font></p>
+	<p style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
+	<p style="margin-top: 0; margin-bottom: 0"><font color="#800000">you can get 
+	creature tamed level 540 after this commands</font></p>
+	<p style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
+	<p style="margin-top: 0; margin-bottom: 0"><b>
+	<font size="4" color="#800080"><span style="background-color: #FFFF00">
+	*Method 3: Random level creatures + Wild</span></font></b></p>
+	<p style="margin-top: 0; margin-bottom: 0">
+	<span style="background-color: #FFFFFF"><font size="4" color="#800080">
+	similar GMSummon command but dont have level creature</font></span></p>
+	<p style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
+	<p style="margin-top: 0; margin-bottom: 0"><font color="#800080"><b>ARK</b></font><font color="#008000"><br>
+	Admincheat Summon </font><font color="#FF0000">CreatureTag</font></p>
+	<p style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
+	<p style="margin-top: 0; margin-bottom: 0"><font color="#800080"><b>ARK</b>
+	</font><font color="#008000">: any character but must above admincheat</font></p>
+	<p style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
+	<p style="margin-top: 0; margin-bottom: 0"><font color="#FF0000">CreatureTag: </font><font color="#008000">
+	get from Creature 
+	ID example ID<b> <u>/Game/PrimalEarth/Dinos/Argentavis/Boss_Argent_Character_BP.</u></b></font><b><u><font color="#800080">Boss_Argent_Character_BP_C</font></u><font color="#008000">, 
+	creature tag : </font><font color="#800080">Boss_Argent_Character_BP_C</font></b></p>
+	<p style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
+	<p style="margin-top: 0; margin-bottom: 0"><b><font color="#FF00FF">For 
+	Example: </font></b></p>
+	<p style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
+	<p style="margin-top: 0; margin-bottom: 0"><b><font color="#800080">ARK</font></b><font color="#0000FF"><br>
+	</font><font color="#008000">Admincheat Summon</font><font color="#0000FF">
+	</font><font color="#FF0000">Argent_Character_BP_C</font></p>
+	<p style="margin-top: 0; margin-bottom: 0">&nbsp;</div>
 <p>&nbsp;</p>
 <p><b><font size="5" color="#FFFF00">
 <span style="text-decoration: underline; background-color: #008000">List some 
@@ -62,7 +123,9 @@ command admincheat for example:</span></font></b></p>
 <div style="border-style: solid; border-width: 1px; padding-left: 4px; padding-right: 4px; padding-top: 1px; padding-bottom: 1px">
 	<font color="#008000">Amber<br>
 	Admincheat GiveSlotItem &quot;Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_DinoAmber.PrimalItemResource_DinoAmber_C'&quot; 
-	0 2000000000</font></div>
+	0 2000000000</font><p><font color="#008000">AmberPickUP-<br>
+	admincheat SpawnActorSpread &quot;Blueprint'/Game/Mobile/AmberDrop/AmberPickup.AmberPickup_C'&quot; 
+	0 0 0 200 500</font></div>
 <p><b><font color="#FF0000" size="5">Artifacts:</font></b></p>
 <div style="border-style: solid; border-width: 1px; padding-left: 4px; padding-right: 4px; padding-top: 1px; padding-bottom: 1px">
 	<font color="#008000">Artifact Hunter - <br>
@@ -118,7 +181,7 @@ command admincheat for example:</span></font></b></p>
 	Admincheat GiveSlotItem &quot;Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_HaloHat.PrimalItemSkin_HaloHat_C'&quot; 
 	0 1<br>
 	<br>
-	CalÁas de Anivers·rio- <br>
+	Cal√ßas de Anivers√°rio- <br>
 	Admincheat GiveSlotItem &quot;Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Leather/PrimalItemSkin_BirthdayPants.PrimalItemSkin_BirthdayPants_C'&quot; 
 	0 1<br>
 	<br>
@@ -646,7 +709,7 @@ command admincheat for example:</span></font></b></p>
 	Admincheat GiveSlotItem &quot;Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_BeerJar.PrimalItemConsumable_BeerJar_C'&quot; 
 	1 500<br>
 	<br>
-	P”LVORA<br>
+	P√ìLVORA<br>
 	&quot;Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Gunpowder.PrimalItemResource_Gunpowder_C'&quot; 
 	0 100<br>
 	<br>
@@ -658,7 +721,7 @@ command admincheat for example:</span></font></b></p>
 	Admincheat GiveSlotItem &quot;Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_NeuraHusk.PrimalItemConsumable_NeuraHusk_C'&quot; 
 	0 100<br>
 	<br>
-	P” POTENTE<br>
+	P√ì POTENTE<br>
 	Admincheat GiveSlotItem &quot;Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_PotentDust.PrimalItemConsumable_PotentDust_C'&quot; 
 	0 100<br>
 	<br>
@@ -682,7 +745,7 @@ command admincheat for example:</span></font></b></p>
 	Admincheat GiveSlotItem &quot;Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_RareMushroom.PrimalItemResource_RareMushroom_C'&quot; 
 	0 100<br>
 	<br>
-	P” FAISCANTE<br>
+	P√ì FAISCANTE<br>
 	Admincheat GiveSlotItem &quot;Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Sparkpowder.PrimalItemResource_Sparkpowder_C'&quot; 
 	0 100<br>
 	<br>
@@ -713,11 +776,11 @@ command admincheat for example:</span></font></b></p>
 	Admincheat GiveSlotItem &quot;Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_PotentHealSoup.PrimalItemConsumable_PotentHealSoup_C'&quot; 
 	1<br>
 	<br>
-	PO«√O DE STAMINA POTENTE<br>
+	PO√á√ÉO DE STAMINA POTENTE<br>
 	Admincheat GiveSlotItem &quot;Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_PotentStaminaSoup.PrimalItemConsumable_PotentStaminaSoup_C'&quot; 
 	1 500<br>
 	<br>
-	PO«√O DE STAMINA<br>
+	PO√á√ÉO DE STAMINA<br>
 	Admincheat GiveSlotItem &quot;Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_StaminaSoup.PrimalItemConsumable_StaminaSoup_C'&quot; 
 	1 500<br>
 	<br>
@@ -725,7 +788,7 @@ command admincheat for example:</span></font></b></p>
 	Admincheat GiveSlotItem &quot;Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumableNirvanaSoup.PrimalItemConsumableNirvanaSoup_C'&quot; 
 	1 500<br>
 	<br>
-	PO«√O ESQUECIMENTO<br>
+	PO√á√ÉO ESQUECIMENTO<br>
 	Admincheat GiveSlotItem &quot;Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumableRespecSoup.PrimalItemConsumableRespecSoup_C'&quot; 
 	1 500<br>
 	<br>
@@ -757,7 +820,7 @@ command admincheat for example:</span></font></b></p>
 	Admincheat GiveSlotItem &quot;Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CactusBuffSoup.PrimalItemConsumable_CactusBuffSoup_C'&quot; 
 	1 500<br>
 	<br>
-	BIFE VIS√O NOTURNA <br>
+	BIFE VIS√ÉO NOTURNA <br>
 	Admincheat GiveSlotItem &quot;Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Soup_ShadowSteak.PrimalItemConsumable_Soup_ShadowSteak_C'&quot; 
 	1 500<br>
 	<br>
@@ -809,7 +872,7 @@ command admincheat for example:</span></font></b></p>
 	Admincheat GiveSlotItem &quot;Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Veggie_Savoroot.PrimalItemConsumable_Veggie_Savoroot_C'&quot; 
 	1 500<br>
 	<br>
-	LIM√O<br>
+	LIM√ÉO<br>
 	Admincheat GiveSlotItem &quot;Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Veggie_Citronal.PrimalItemConsumable_Veggie_Citronal_C'&quot; 
 	1 500<br>
 	<br>
@@ -842,11 +905,11 @@ command admincheat for example:</span></font></b></p>
 	1 500</font></div>
 <p><font color="#FF0000" size="5">Bullets:</font></p>
 <div style="border-style: solid; border-width: 1px; padding-left: 4px; padding-right: 4px; padding-top: 1px; padding-bottom: 1px">
-	<font color="#008000">BALA AVAN«ADA (TORRETA)<br>
+	<font color="#008000">BALA AVAN√áADA (TORRETA)<br>
 	Admincheat GiveSlotItem &quot;Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_AdvancedBullet.PrimalItemAmmo_AdvancedBullet_C'&quot; 
 	0 200<br>
 	<br>
-	BALA DE RIFLE AVAN«ADA<br>
+	BALA DE RIFLE AVAN√áADA<br>
 	Admincheat GiveSlotItem &quot;Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_AdvancedRifleBullet.PrimalItemAmmo_AdvancedRifleBullet_C'&quot; 
 	0 200<br>
 	<br>
@@ -864,7 +927,7 @@ command admincheat for example:</span></font></b></p>
 	Admincheat GiveSlotItem &quot;Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_Boulder.PrimalItemAmmo_Boulder_C'&quot; 
 	0 200<br>
 	<br>
-	BALA DE CANH√O<br>
+	BALA DE CANH√ÉO<br>
 	Admincheat GiveSlotItem &quot;Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_CannonBall.PrimalItemAmmo_CannonBall_C'&quot; 
 	0 200<br>
 	<br>
@@ -876,7 +939,7 @@ command admincheat for example:</span></font></b></p>
 	Admincheat GiveSlotItem &quot;Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_CompoundBowArrow.PrimalItemAmmo_CompoundBowArrow_C'&quot; 
 	0 200<br>
 	<br>
-	FLECHA DE DOD‘<br>
+	FLECHA DE DOD√î<br>
 	Admincheat GiveSlotItem &quot;Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_DodoArrow.PrimalItemAmmo_DodoArrow_C'&quot; 
 	0 200<br>
 	<br>
@@ -1292,7 +1355,7 @@ command admincheat for example:</span></font></b></p>
 	Destroi Todos os dinos da tribo<br>
 	admincheat DestroyTribeDinos<br>
 	<br>
-	Pega qualquer estrutura pra vocÍ<br>
+	Pega qualquer estrutura pra voc√™<br>
 	admincheat GiveToMe<br>
 	<br>
 	Teleportar<br>
@@ -1308,8 +1371,172 @@ command admincheat for example:</span></font></b></p>
 	admincheat MakeTribeAdmin<br>
 	<br>
 	Limpar o Inventario de qualquer player<br>
-	admincheat ClearPlayerInventory 496134907 true false false</font></div>
-<p>&nbsp;</p>
+	admincheat ClearPlayerInventory 496134907 true false false</font><p>
+	<font color="#008000">-<br>
+	admincheat Fly<br>
+	<br>
+	-<br>
+	admincheat FlyFast<br>
+	<br>
+	-<br>
+	admincheat Ghost<br>
+	<br>
+	-<br>
+	admincheat Walk<br>
+	<br>
+	-<br>
+	admincheat DoTame<br>
+	<br>
+	-<br>
+	admincheat WhereIsAmber<br>
+	-<br>
+	admincheat EnemyInVisible true<br>
+	<br>
+	-<br>
+	admincheat SetTimeOfDay 14:30<br>
+	<br>
+	-<br>
+	admincheat SetPlayerPosXYZ 0 0 0<br>
+	<br>
+	-<br>
+	admincheat RoomTeleport 1<br>
+	<br>
+	-<br>
+	admincheat RoomKillAll<br>
+	<br>
+	-<br>
+	admincheat ListPlayers<br>
+	<br>
+	-<br>
+	admincheat God<br>
+	<br>
+	-<br>
+	admincheat GMBuff<br>
+	<br>
+	-<br>
+	admincheat GiveResources<br>
+	<br>
+	-<br>
+	admincheat Gift<br>
+	<br>
+	-<br>
+	admincheat FindWildDino Equus_Character_BP_Unicorn_C<br>
+	<br>
+	-<br>
+	admincheat DinoRequest 1<br>
+	<br>
+	-<br>
+	admincheat setcustomtrait 1000<br>
+	<br>
+	-<br>
+	admincheat ce makeitrain <br>
+	<br>
+	-<br>
+	admincheat ce katyperry<br>
+	<br>
+	-<br>
+	admincheat LeaveMeAlone</font></div>
+<p><u><b><span style="background-color: #FF00FF">BOSS ARENA</span></b></u></p>
+<div style="border-style: solid; border-width: 1px; padding-left: 4px; padding-right: 4px; padding-top: 1px; padding-bottom: 1px">
+	<font color="#008000"><b>SUMMON</b></font><p align="left">
+	<font color="#008000"><span style="background-color: #FFFFFF">-<br>
+	</span><span style="background-color: #FFFFFF">Admincheat</span><span style="background-color: #FFFFFF"> 
+	SpawnActor &quot;Blueprint'/Game/Mobile/Dungeon/BossArena/Obstacles/GorillaObstacle.GorillaObstacle_C'&quot; 
+	10 0 0</span></font></p>
+	<p align="left"><font color="#008000">
+	<span style="background-color: #FFFFFF">-<br>
+	</span><span style="background-color: #FFFFFF">Admincheat</span><span style="background-color: #FFFFFF"> 
+	SpawnActor &quot;Blueprint'/Game/Mobile/Dungeon/BossArena/Obstacles/DungBeetleObstacle.DungBeetleObstacle_C'&quot; 
+	10 0 0</span></font></p>
+	<p align="left"><font color="#008000">
+	<span style="background-color: #FFFFFF"><br>
+	-<br>
+	</span><span style="background-color: #FFFFFF">Admincheat</span><span style="background-color: #FFFFFF"> 
+	SpawnActor &quot;Blueprint'/Game/Mobile/Dungeon/BossArena/Obstacles/CnidariaObstacle.CnidariaObstacle_C'&quot; 
+	10 0 0</span></font></p>
+	<p align="left"><font color="#008000">
+	<span style="background-color: #FFFFFF"><br>
+	-<br>
+	</span><span style="background-color: #FFFFFF">Admincheat</span><span style="background-color: #FFFFFF"> 
+	SpawnActor &quot;Blueprint'/Game/Mobile/Dungeon/BossArena/Obstacles/ChalicoObstacle.ChalicoObstacle_C'&quot; 
+	10 0 0</span></font></p>
+	<p align="left"><font color="#008000">
+	<span style="background-color: #FFFFFF"><br>
+	-<br>
+	</span><span style="background-color: #FFFFFF">Admincheat</span><span style="background-color: #FFFFFF"> 
+	SpawnActor &quot;Blueprint'/Game/Mobile/Dungeon/BossArena/Obstacles/BroodmotherObstacle.BroodmotherObstacle_C'&quot; 
+	10 0 0</span></font></p>
+	<p align="left"><font color="#008000">
+	<span style="background-color: #FFFFFF"><br>
+	-<br>
+	</span><span style="background-color: #FFFFFF">Admincheat</span><span style="background-color: #FFFFFF"> 
+	SpawnActor &quot;Blueprint'/Game/Mobile/Dungeon/BossArena/Obstacles/AnticornObstacle.AnticornObstacle_C'&quot; 
+	10 0 0</span></font></p>
+	<p align="left"><font color="#008000">
+	<span style="background-color: #FFFFFF"><br>
+	-<br>
+	</span><span style="background-color: #FFFFFF">Admincheat</span><span style="background-color: #FFFFFF"> 
+	SpawnActor &quot;Blueprint'/Game/Mobile/Dungeon/BossArena/Obstacles/DodoObstacle.DodoObstacle_C'&quot; 
+	10 0 0</span></font></p>
+	<p align="left"><font color="#008000">
+	<span style="background-color: #FFFFFF"><br>
+	-<br>
+	</span><span style="background-color: #FFFFFF">Admincheat</span><span style="background-color: #FFFFFF"> 
+	SpawnActor &quot;Blueprint'/Game/Mobile/Dungeon/BossArena/Obstacles/Doed_Obstacle.Doed_Obstacle_C'&quot; 
+	10 0 0</span></font></p>
+	<p align="left"><font color="#008000">
+	<span style="background-color: #FFFFFF"><br>
+	-<br>
+	</span><span style="background-color: #FFFFFF">Admincheat</span><span style="background-color: #FFFFFF"> 
+	SpawnActor &quot;Blueprint'/Game/Mobile/Dungeon/BossArena/Obstacles/ArgentObstacle.ArgentObstacle_C'&quot; 
+	10 0 0</span></font></p>
+	<p align="left"><font color="#008000">
+	<span style="background-color: #FFFFFF"><br>
+	-<br>
+	</span><span style="background-color: #FFFFFF">Admincheat</span><span style="background-color: #FFFFFF"> 
+	SpawnActor &quot;Blueprint'/Game/Mobile/Dungeon/BossArena/Obstacles/ToadObstacle.ToadObstacle_C'&quot; 
+	10 0 0</span></font></p>
+	<p align="left">&nbsp;</p>
+	<p align="left"><span style="font-weight: 700; background-color: #FFFFFF">
+	<font color="#FF0000">Remove</font></span></p>
+	<p align="left"><font color="#FF0000">
+	<span style="background-color: #FFFFFF">-------<br>
+	Admincheat destroyall Doed_Obstacle_C</span></font></p>
+	<p align="left"><font color="#FF0000">
+	<span style="background-color: #FFFFFF"><br>
+	-------<br>
+	Admincheat destroyall DungBeetleObstacle_C</span></font></p>
+	<p align="left"><font color="#FF0000">
+	<span style="background-color: #FFFFFF"><br>
+	-------<br>
+	Admincheat destroyall GorillaObstacle_C</span></font></p>
+	<p align="left"><font color="#FF0000">
+	<span style="background-color: #FFFFFF"><br>
+	-------<br>
+	Admincheat destroyall ToadObstacle_C</span></font></p>
+	<p align="left"><font color="#FF0000">
+	<span style="background-color: #FFFFFF"><br>
+	-------<br>
+	Admincheat destroyall AnticornObstacle_C</span></font></p>
+	<p align="left"><font color="#FF0000">
+	<span style="background-color: #FFFFFF">-------<br>
+	Admincheat destroyall BroodmotherObstacle_C</span></font></p>
+	<p align="left"><font color="#FF0000">
+	<span style="background-color: #FFFFFF"><br>
+	-------<br>
+	Admincheat destroyall ChalicoObstacle_C</span></font></p>
+	<p align="left"><font color="#FF0000">
+	<span style="background-color: #FFFFFF"><br>
+	-------<br>
+	Admincheat destroyall CnidariaObstacle_C</span></font></p>
+	<p align="left"><font color="#FF0000">
+	<span style="background-color: #FFFFFF"><br>
+	-------<br>
+	Admincheat destroyall ArgentObstacle_C</span></font></p>
+	<p align="left"><font color="#FF0000">
+	<span style="background-color: #FFFFFF"><br>
+	-------<br>
+	Admincheat destroyall DodoObstacle_C</span></font></div>
 
 </body>
 
